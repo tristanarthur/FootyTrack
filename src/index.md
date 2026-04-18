@@ -213,7 +213,7 @@ const squiggle = Generators.observe((notify) => {
 })()
 ```
 
-<div class="grid grid-cols-2" style="margin-top: 1rem; align-items: start;">
+<div class="grid grid-cols-2" style="margin-top: 1rem; align-items: start; grid-auto-rows: auto;">
 
 <div class="card">
 
