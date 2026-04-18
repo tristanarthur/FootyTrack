@@ -1,5 +1,7 @@
 # FootyTrack
 
+## VIBE-CODE WARNING
+
 AFL team stats and insights — a static site built with [Observable Framework](https://observablehq.com/framework/), hosted on GitHub Pages, fed by a daily scrape of the [Squiggle API](https://api.squiggle.com.au/).
 
 ## Pages
