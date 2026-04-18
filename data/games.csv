@@ -2926,9 +2926,9 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38539,2026,6,Round 6,2026-04-16 19:30:00,Carlton,3.0,Collingwood,4.0,83,88,12.0,11.0,13.0,10.0,Collingwood,4.0,M.C.G.,100,0,0,2026-04-16 22:06:20
 38540,2026,6,Round 6,2026-04-17 19:20:00,Geelong,7.0,Western Bulldogs,18.0,131,56,19.0,17.0,8.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-04-17 22:03:20
 38541,2026,6,Round 6,2026-04-17 19:50:00,Sydney,16.0,Greater Western Sydney,9.0,107,66,17.0,5.0,8.0,18.0,Sydney,16.0,S.C.G.,100,0,0,2026-04-17 23:15:05
-38542,2026,6,Round 6,2026-04-18 13:15:00,Gold Coast,8.0,Essendon,5.0,7,6,1.0,1.0,1.0,0.0,,,Carrara,4,0,0,2026-04-18 13:20:52
-38543,2026,6,Round 6,2026-04-18 16:15:00,Hawthorn,10.0,Port Adelaide,13.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:38
-38544,2026,6,Round 6,2026-04-18 19:35:00,Adelaide,1.0,St Kilda,15.0,0,0,,,,,,,Adelaide Oval,0,0,0,2025-11-21 12:16:38
+38542,2026,6,Round 6,2026-04-18 13:15:00,Gold Coast,8.0,Essendon,5.0,119,110,17.0,17.0,17.0,8.0,Gold Coast,8.0,Carrara,100,0,0,2026-04-18 15:56:27
+38543,2026,6,Round 6,2026-04-18 16:15:00,Hawthorn,10.0,Port Adelaide,13.0,89,86,13.0,11.0,13.0,8.0,Hawthorn,10.0,Docklands,100,0,0,2026-04-18 18:53:06
+38544,2026,6,Round 6,2026-04-18 19:35:00,Adelaide,1.0,St Kilda,15.0,103,102,15.0,13.0,15.0,12.0,Adelaide,1.0,Adelaide Oval,100,0,0,2026-04-18 22:13:35
 38545,2026,6,Round 6,2026-04-19 13:10:00,North Melbourne,12.0,Richmond,14.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:38
 38546,2026,6,Round 6,2026-04-19 15:15:00,Melbourne,11.0,Brisbane Lions,2.0,0,0,,,,,,,M.C.G.,0,0,0,2025-11-21 12:16:38
 38547,2026,6,Round 6,2026-04-19 17:10:00,West Coast,17.0,Fremantle,6.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:38
