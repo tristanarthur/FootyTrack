@@ -26,11 +26,13 @@ const currentStandings = yearStandings
 ```
 
 ```js
-// Highlight state — resets automatically when year changes
+// Highlight state — multi-select Set; resets automatically when year changes
 void selectedYear;
-const highlightInput = Object.assign(document.createElement("span"), {value: null});
+const highlightInput = Object.assign(document.createElement("span"), {value: new Set()});
 function highlightTeam(name) {
-  highlightInput.value = highlightInput.value === name ? null : name;
+  const next = new Set(highlightInput.value);
+  next.has(name) ? next.delete(name) : next.add(name);
+  highlightInput.value = next;
   highlightInput.dispatchEvent(new Event("input"));
 }
 const highlighted = Generators.input(highlightInput);
@@ -45,9 +47,12 @@ ${yearInput}
 
 ```js
 (function() {
+  const none = highlighted.size === 0;
+  const isOn = (name) => none || highlighted.has(name);
+
   const legend = html`<div class="team-legend">${teamColorDomain.map((name) => {
-    const isActive = highlighted === name;
-    const isDim = highlighted !== null && !isActive;
+    const isActive = highlighted.has(name);
+    const isDim = !none && !isActive;
     return html`<button
       class="legend-item${isActive ? " active" : isDim ? " dim" : ""}"
       style="--color:${teamColor(name)}"
@@ -67,8 +72,8 @@ ${yearInput}
         x: "round",
         y: "rank",
         stroke: "name",
-        strokeWidth: (d) => highlighted === null || d.name === highlighted ? 2.5 : 1,
-        strokeOpacity: (d) => highlighted === null || d.name === highlighted ? 1 : 0.08,
+        strokeWidth: (d) => isOn(d.name) ? 2.5 : 1,
+        strokeOpacity: (d) => isOn(d.name) ? 1 : 0.08,
         tip: true,
         title: (d) => `${d.name}\nRound ${d.round}: #${d.rank}\n${d.pts} pts · ${d.percentage.toFixed(1)}%`,
       }),
@@ -77,7 +82,7 @@ ${yearInput}
         y: "rank",
         fill: (d) => teamColor(d.name),
         r: 4,
-        fillOpacity: (d) => highlighted === null || d.name === highlighted ? 1 : 0.08,
+        fillOpacity: (d) => isOn(d.name) ? 1 : 0.08,
       }),
     ],
   });

@@ -48,11 +48,13 @@ const leaderboard = [...sourceStats.entries()].map(([id, s]) => ({
 ```
 
 ```js
-// Highlight state — resets when year changes
+// Highlight state — multi-select Set; resets when year changes
 void selectedYear;
-const highlightInput = Object.assign(document.createElement("span"), {value: null});
+const highlightInput = Object.assign(document.createElement("span"), {value: new Set()});
 function highlightSource(name) {
-  highlightInput.value = highlightInput.value === name ? null : name;
+  const next = new Set(highlightInput.value);
+  next.has(name) ? next.delete(name) : next.add(name);
+  highlightInput.value = next;
   highlightInput.dispatchEvent(new Event("input"));
 }
 const highlighted = Generators.input(highlightInput);
@@ -151,9 +153,12 @@ Inputs.table(leaderboard, {
   const orderedSources = leaderboard.map((d) => d.name);
   const colorMap = Object.fromEntries(orderedSources.map((s, i) => [s, tableau10[i % 10]]));
 
+  const none = highlighted.size === 0;
+  const isOn = (name) => none || highlighted.has(name);
+
   const legend = html`<div class="team-legend">${orderedSources.map((name) => {
-    const isActive = highlighted === name;
-    const isDim = highlighted !== null && !isActive;
+    const isActive = highlighted.has(name);
+    const isDim = !none && !isActive;
     return html`<button
       class="legend-item${isActive ? " active" : isDim ? " dim" : ""}"
       style="--color:${colorMap[name]}"
@@ -171,8 +176,8 @@ Inputs.table(leaderboard, {
         x: "round",
         y: "accuracy",
         stroke: "source",
-        strokeWidth: (d) => highlighted === null || d.source === highlighted ? 2 : 1,
-        strokeOpacity: (d) => highlighted === null || d.source === highlighted ? 1 : 0.08,
+        strokeWidth: (d) => isOn(d.source) ? 2 : 1,
+        strokeOpacity: (d) => isOn(d.source) ? 1 : 0.08,
         tip: true,
         title: (d) => `${d.source}\nRd ${d.round}: ${d.accuracy.toFixed(1)}%`,
       }),

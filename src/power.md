@@ -38,11 +38,13 @@ const latestRanking = sourcePower
 ```
 
 ```js
-// Highlight state — resets when year or model changes
+// Highlight state — multi-select Set; resets when year or model changes
 void selectedYear; void selectedSource;
-const highlightInput = Object.assign(document.createElement("span"), {value: null});
+const highlightInput = Object.assign(document.createElement("span"), {value: new Set()});
 function highlightTeam(name) {
-  highlightInput.value = highlightInput.value === name ? null : name;
+  const next = new Set(highlightInput.value);
+  next.has(name) ? next.delete(name) : next.add(name);
+  highlightInput.value = next;
   highlightInput.dispatchEvent(new Event("input"));
 }
 const highlighted = Generators.input(highlightInput);
@@ -61,10 +63,12 @@ const highlighted = Generators.input(highlightInput);
 ```js
 (function() {
   const powerTeams = [...new Set(sourcePower.map((d) => d.team))].sort();
+  const none = highlighted.size === 0;
+  const isOn = (name) => none || highlighted.has(name);
 
   const legend = html`<div class="team-legend">${powerTeams.map((name) => {
-    const isActive = highlighted === name;
-    const isDim = highlighted !== null && !isActive;
+    const isActive = highlighted.has(name);
+    const isDim = !none && !isActive;
     return html`<button
       class="legend-item${isActive ? " active" : isDim ? " dim" : ""}"
       style="--color:${teamColor(name)}"
@@ -84,8 +88,8 @@ const highlighted = Generators.input(highlightInput);
         x: "round",
         y: (d) => +d.power,
         stroke: "team",
-        strokeWidth: (d) => highlighted === null || d.team === highlighted ? 2.5 : 1,
-        strokeOpacity: (d) => highlighted === null || d.team === highlighted ? 1 : 0.08,
+        strokeWidth: (d) => isOn(d.team) ? 2.5 : 1,
+        strokeOpacity: (d) => isOn(d.team) ? 1 : 0.08,
         tip: true,
         title: (d) => `${d.team}\nRound ${d.round}: ${(+d.power).toFixed(1)} (rank #${d.rank})`,
       }),
@@ -94,7 +98,7 @@ const highlighted = Generators.input(highlightInput);
         y: (d) => +d.power,
         fill: (d) => teamColor(d.team),
         r: 4,
-        fillOpacity: (d) => highlighted === null || d.team === highlighted ? 1 : 0.08,
+        fillOpacity: (d) => isOn(d.team) ? 1 : 0.08,
       }),
     ],
   });
