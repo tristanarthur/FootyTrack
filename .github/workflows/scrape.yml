@@ -1,0 +1,45 @@
+name: Scrape AFL Data
+
+on:
+  schedule:
+    # 05:15 AEST daily (19:15 UTC) — after night games are typically finalised
+    - cron: "15 19 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill:
+        description: "Backfill all years from 2012"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: |
+          if [ "${{ inputs.backfill }}" = "true" ]; then
+            python scripts/scrape_squiggle.py --backfill
+          else
+            python scripts/scrape_squiggle.py
+          fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "footytrack-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "data: daily scrape $(date -u +%F)"
+          git push

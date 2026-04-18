@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.squiggle.com.au)",
+      "Bash(pip install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(wc -l /Users/tristan/Projects/FootyTrack/data/*.csv)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
