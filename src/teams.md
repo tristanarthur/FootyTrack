@@ -66,7 +66,7 @@ html`<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margi
   const color = teamColor(t.name);
   const slug = t.name.toLowerCase().replace(/\s+/g, "-");
   const logo = logoMap[t.name];
-  return html`<a href="teams/${slug}" class="card team-card" style="border-top:4px solid ${color};text-decoration:none;display:block;">
+  return html`<a href="${slug}" class="card team-card" style="border-top:4px solid ${color};text-decoration:none;display:block;">
     <div style="display:flex;align-items:center;gap:0.75rem;margin-bottom:0.5rem;">
       ${logo ? html`<img src="${logo}" alt="${t.name} logo" style="width:48px;height:48px;object-fit:contain;flex-shrink:0;">` : ""}
       <h3 style="margin:0;color:${color};">${t.name}</h3>
