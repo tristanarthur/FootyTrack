@@ -213,7 +213,7 @@ const squiggle = Generators.observe((notify) => {
 })()
 ```
 
-<div class="grid grid-cols-2" style="margin-top: 1rem;">
+<div class="grid grid-cols-2" style="margin-top: 1rem; align-items: start;">
 
 <div class="card">
 
@@ -221,7 +221,7 @@ const squiggle = Generators.observe((notify) => {
 
 ```js
 Plot.plot({
-  marginLeft: 130,
+  marginLeft: 160,
   height: 400,
   x: {label: "Points", grid: true},
   y: {label: null},

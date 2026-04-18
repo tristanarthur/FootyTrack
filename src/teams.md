@@ -62,7 +62,7 @@ yearInput
 ```
 
 ```js
-html`<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1rem;">${teamStats.map((t) => {
+html`<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:1rem;margin-top:1rem;">${teamStats.map((t) => {
   const color = teamColor(t.name);
   const slug = t.name.toLowerCase().replace(/\s+/g, "-");
   const logo = logoMap[t.name];
@@ -81,7 +81,7 @@ html`<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margi
 
 ```js
 Plot.plot({
-  marginLeft: 140,
+  marginLeft: 160,
   height: 480,
   x: {label: "Wins", grid: true},
   y: {label: null},
@@ -116,7 +116,7 @@ Inputs.table(allTimeStats, {
 
 ```js
 Plot.plot({
-  marginLeft: 140,
+  marginLeft: 160,
   height: 480,
   x: {label: "Wins", grid: true},
   y: {label: null},
