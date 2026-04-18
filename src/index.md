@@ -100,15 +100,23 @@ const gameCard = (g, events = []) => {
 ```
 
 ```js
-// Single generator: polls games every 30s AND manages persistent SSE connections for live events.
-// Events accumulate in the closure and are never reset by a poll cycle.
+// Single generator: adaptive polling + persistent SSE connections for live events.
+// - Polls live games every 60s while games are on, every 5 min when idle.
+// - Refreshes upcoming fixtures at most once every 15 min (they rarely change).
+// - SSE handles real-time scoring; HTTP polls only discover which games are live.
 const squiggle = Generators.observe((notify) => {
   let active = true;
   let state = {live: [], upcoming: [], eventsByGame: {}, fetchedAt: null, error: false};
   const sources = new Map(); // gameId → EventSource
 
+  const LIVE_MS     =      60_000; // 60 s  — while games are in progress
+  const IDLE_MS     =   5 * 60_000; // 5 min — nothing live
+  const UPCOMING_MS =  15 * 60_000; // 15 min — upcoming fixtures
+
+  let lastUpcomingFetch = 0;
+
   function openSource(game) {
-    if (sources.has(game.id)) return; // already connected
+    if (sources.has(game.id)) return;
     const es = new EventSource(`https://sse.squiggle.com.au/events/${game.id}`);
     es.addEventListener("score", (evt) => {
       const d = JSON.parse(evt.data);
@@ -128,19 +136,24 @@ const squiggle = Generators.observe((notify) => {
   }
 
   async function poll() {
+    const now = Date.now();
+    const needUpcoming = (now - lastUpcomingFetch) >= UPCOMING_MS;
+
     try {
-      const [liveRes, upcomingRes] = await Promise.all([
-        fetch(`https://api.squiggle.com.au/?q=games;year=${currentYear};live=1`),
-        fetch(`https://api.squiggle.com.au/?q=games;year=${currentYear};complete=0`),
-      ]);
-      const live     = liveRes.ok     ? ((await liveRes.json()).games     ?? []) : [];
-      const upcoming = upcomingRes.ok ? ((await upcomingRes.json()).games ?? []) : [];
+      const requests = [fetch(`https://api.squiggle.com.au/?q=games;year=${currentYear};live=1`)];
+      if (needUpcoming) requests.push(fetch(`https://api.squiggle.com.au/?q=games;year=${currentYear};complete=0`));
+
+      const [liveRes, upcomingRes] = await Promise.all(requests);
+      const live = liveRes.ok ? ((await liveRes.json()).games ?? []) : [];
+      const upcoming = needUpcoming
+        ? (upcomingRes?.ok ? ((await upcomingRes.json()).games ?? []) : state.upcoming)
+        : state.upcoming;
+      if (needUpcoming) lastUpcomingFetch = now;
 
       const liveIds = new Set(live.map((g) => g.id));
-      pruneClosedGames(liveIds);          // close SSE for finished games
-      live.forEach((g) => openSource(g)); // open SSE for new live games
+      pruneClosedGames(liveIds);
+      live.forEach((g) => openSource(g));
 
-      // Preserve accumulated events — only keep entries for currently live games
       const eventsByGame = Object.fromEntries(live.map((g) => [g.id, state.eventsByGame[g.id] ?? []]));
       state = {live, upcoming, eventsByGame, fetchedAt: new Date(), error: false};
       notify(state);
@@ -148,7 +161,8 @@ const squiggle = Generators.observe((notify) => {
       state = {...state, fetchedAt: new Date(), error: true};
       notify(state);
     }
-    if (active) setTimeout(poll, 30_000);
+
+    if (active) setTimeout(poll, state.live.length > 0 ? LIVE_MS : IDLE_MS);
   }
 
   poll();
