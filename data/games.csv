@@ -2944,10 +2944,10 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38557,2026,8,Round 8,2026-04-30 19:30:00,Collingwood,4.0,Hawthorn,10.0,93,93,15.0,3.0,13.0,15.0,,,M.C.G.,100,0,0,2026-04-30 22:09:25
 38558,2026,8,Round 8,2026-05-01 19:30:00,Western Bulldogs,18.0,Fremantle,6.0,102,114,15.0,12.0,17.0,12.0,Fremantle,6.0,Docklands,100,0,0,2026-05-01 22:12:21
 38559,2026,8,Round 8,2026-05-01 20:10:00,Adelaide,1.0,Port Adelaide,13.0,76,75,11.0,10.0,11.0,9.0,Adelaide,1.0,Adelaide Oval,100,0,0,2026-05-01 22:48:06
-38560,2026,8,Round 8,2026-05-02 12:35:00,Essendon,5.0,Brisbane Lions,2.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:41
-38561,2026,8,Round 8,2026-05-02 16:15:00,West Coast,17.0,Richmond,14.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:41
-38562,2026,8,Round 8,2026-05-02 16:35:00,Geelong,7.0,North Melbourne,12.0,0,0,,,,,,,Kardinia Park,0,0,0,2025-11-21 12:16:41
-38563,2026,8,Round 8,2026-05-02 19:35:00,Carlton,3.0,St Kilda,15.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:41
+38560,2026,8,Round 8,2026-05-02 12:35:00,Essendon,5.0,Brisbane Lions,2.0,79,143,11.0,13.0,22.0,11.0,Brisbane Lions,2.0,Docklands,100,0,0,2026-05-02 15:11:54
+38561,2026,8,Round 8,2026-05-02 16:15:00,West Coast,17.0,Richmond,14.0,88,99,13.0,10.0,15.0,9.0,Richmond,14.0,Perth Stadium,100,0,0,2026-05-02 18:52:44
+38562,2026,8,Round 8,2026-05-02 16:35:00,Geelong,7.0,North Melbourne,12.0,135,86,21.0,9.0,13.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-05-02 19:15:11
+38563,2026,8,Round 8,2026-05-02 19:35:00,Carlton,3.0,St Kilda,15.0,69,108,9.0,15.0,16.0,12.0,St Kilda,15.0,Docklands,100,0,0,2026-05-02 22:10:06
 38564,2026,8,Round 8,2026-05-03 15:15:00,Sydney,16.0,Melbourne,11.0,0,0,,,,,,,S.C.G.,0,0,0,2025-11-21 12:16:41
 38565,2026,8,Round 8,2026-05-03 19:20:00,Gold Coast,8.0,Greater Western Sydney,9.0,0,0,,,,,,,Carrara,0,0,0,2025-11-21 12:16:41
 38566,2026,9,Round 9,2026-05-07 20:10:00,Fremantle,6.0,Hawthorn,10.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:43
