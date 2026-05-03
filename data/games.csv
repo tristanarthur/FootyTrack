@@ -2948,8 +2948,8 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38561,2026,8,Round 8,2026-05-02 16:15:00,West Coast,17.0,Richmond,14.0,88,99,13.0,10.0,15.0,9.0,Richmond,14.0,Perth Stadium,100,0,0,2026-05-02 18:52:44
 38562,2026,8,Round 8,2026-05-02 16:35:00,Geelong,7.0,North Melbourne,12.0,135,86,21.0,9.0,13.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-05-02 19:15:11
 38563,2026,8,Round 8,2026-05-02 19:35:00,Carlton,3.0,St Kilda,15.0,69,108,9.0,15.0,16.0,12.0,St Kilda,15.0,Docklands,100,0,0,2026-05-02 22:10:06
-38564,2026,8,Round 8,2026-05-03 15:15:00,Sydney,16.0,Melbourne,11.0,0,0,,,,,,,S.C.G.,0,0,0,2025-11-21 12:16:41
-38565,2026,8,Round 8,2026-05-03 19:20:00,Gold Coast,8.0,Greater Western Sydney,9.0,0,0,,,,,,,Carrara,0,0,0,2025-11-21 12:16:41
+38564,2026,8,Round 8,2026-05-03 15:15:00,Sydney,16.0,Melbourne,11.0,131,114,19.0,17.0,17.0,12.0,Sydney,16.0,S.C.G.,100,0,0,2026-05-03 18:05:43
+38565,2026,8,Round 8,2026-05-03 19:20:00,Gold Coast,8.0,Greater Western Sydney,9.0,83,63,11.0,17.0,8.0,15.0,Gold Coast,8.0,Carrara,100,0,0,2026-05-03 21:53:50
 38566,2026,9,Round 9,2026-05-07 20:10:00,Fremantle,6.0,Hawthorn,10.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:43
 38567,2026,9,Round 9,2026-05-08 19:30:00,Brisbane Lions,2.0,Carlton,3.0,0,0,,,,,,,Gabba,0,0,0,2025-11-21 12:16:43
 38568,2026,9,Round 9,2026-05-08 20:10:00,Port Adelaide,13.0,Western Bulldogs,18.0,0,0,,,,,,,Adelaide Oval,0,0,0,2025-11-21 12:16:43
