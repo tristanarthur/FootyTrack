@@ -2971,10 +2971,10 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38584,2026,11,Round 11,2026-05-21 19:30:00,Hawthorn,10.0,Adelaide,1.0,75,66,10.0,15.0,9.0,12.0,Hawthorn,10.0,York Park,100,0,0,2026-05-21 22:11:02
 38585,2026,11,Round 11,2026-05-22 19:40:00,Richmond,14.0,Essendon,5.0,74,56,10.0,14.0,7.0,14.0,Richmond,14.0,M.C.G.,100,0,0,2026-05-22 22:17:48
 38586,2026,11,Round 11,2026-05-22 20:30:00,Fremantle,6.0,St Kilda,15.0,104,74,16.0,8.0,11.0,8.0,Fremantle,6.0,Perth Stadium,100,0,0,2026-05-22 23:07:21
-38587,2026,11,Round 11,2026-05-23 13:15:00,North Melbourne,12.0,Gold Coast,8.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:46
-38588,2026,11,Round 11,2026-05-23 16:15:00,Geelong,7.0,Sydney,16.0,0,0,,,,,,,Kardinia Park,0,0,0,2025-11-21 12:16:46
-38589,2026,11,Round 11,2026-05-23 16:35:00,Collingwood,4.0,West Coast,17.0,0,0,,,,,,,M.C.G.,0,0,0,2025-11-21 12:16:46
-38590,2026,11,Round 11,2026-05-23 19:35:00,Port Adelaide,13.0,Carlton,3.0,0,0,,,,,,,Adelaide Oval,0,0,0,2025-11-21 12:16:46
+38587,2026,11,Round 11,2026-05-23 13:15:00,North Melbourne,12.0,Gold Coast,8.0,111,105,17.0,9.0,16.0,9.0,North Melbourne,12.0,Docklands,100,0,0,2026-05-23 15:58:39
+38588,2026,11,Round 11,2026-05-23 16:15:00,Geelong,7.0,Sydney,16.0,107,80,15.0,17.0,12.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-05-23 18:51:21
+38589,2026,11,Round 11,2026-05-23 16:35:00,Collingwood,4.0,West Coast,17.0,92,82,13.0,14.0,12.0,10.0,Collingwood,4.0,M.C.G.,100,0,0,2026-05-23 19:17:48
+38590,2026,11,Round 11,2026-05-23 19:35:00,Port Adelaide,13.0,Carlton,3.0,58,92,8.0,10.0,13.0,14.0,Carlton,3.0,Adelaide Oval,100,0,0,2026-05-23 22:09:07
 38591,2026,11,Round 11,2026-05-24 12:30:00,Greater Western Sydney,9.0,Brisbane Lions,2.0,0,0,,,,,,,Sydney Showground,0,0,0,2025-11-21 12:16:46
 38592,2026,11,Round 11,2026-05-24 15:15:00,Western Bulldogs,18.0,Melbourne,11.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:46
 38593,2026,12,Round 12,2026-05-28 19:30:00,St Kilda,15.0,Hawthorn,10.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:48
