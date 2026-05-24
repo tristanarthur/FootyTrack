@@ -2975,8 +2975,8 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38588,2026,11,Round 11,2026-05-23 16:15:00,Geelong,7.0,Sydney,16.0,107,80,15.0,17.0,12.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-05-23 18:51:21
 38589,2026,11,Round 11,2026-05-23 16:35:00,Collingwood,4.0,West Coast,17.0,92,82,13.0,14.0,12.0,10.0,Collingwood,4.0,M.C.G.,100,0,0,2026-05-23 19:17:48
 38590,2026,11,Round 11,2026-05-23 19:35:00,Port Adelaide,13.0,Carlton,3.0,58,92,8.0,10.0,13.0,14.0,Carlton,3.0,Adelaide Oval,100,0,0,2026-05-23 22:09:07
-38591,2026,11,Round 11,2026-05-24 12:30:00,Greater Western Sydney,9.0,Brisbane Lions,2.0,0,0,,,,,,,Sydney Showground,0,0,0,2025-11-21 12:16:46
-38592,2026,11,Round 11,2026-05-24 15:15:00,Western Bulldogs,18.0,Melbourne,11.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:46
+38591,2026,11,Round 11,2026-05-24 12:30:00,Greater Western Sydney,9.0,Brisbane Lions,2.0,166,88,26.0,10.0,13.0,10.0,Greater Western Sydney,9.0,Sydney Showground,100,0,0,2026-05-24 15:20:29
+38592,2026,11,Round 11,2026-05-24 15:15:00,Western Bulldogs,18.0,Melbourne,11.0,93,90,14.0,9.0,13.0,12.0,Western Bulldogs,18.0,Docklands,100,0,0,2026-05-24 17:59:24
 38593,2026,12,Round 12,2026-05-28 19:30:00,St Kilda,15.0,Hawthorn,10.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:48
 38594,2026,12,Round 12,2026-05-29 19:40:00,Carlton,3.0,Geelong,7.0,0,0,,,,,,,M.C.G.,0,0,0,2025-11-21 12:16:48
 38595,2026,12,Round 12,2026-05-30 13:15:00,Sydney,16.0,Richmond,14.0,0,0,,,,,,,S.C.G.,0,0,0,2025-11-21 12:16:48
