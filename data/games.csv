@@ -2994,9 +2994,9 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38607,2026,13,Round 13,2026-06-08 15:15:00,Collingwood,4.0,Melbourne,11.0,75,83,11.0,9.0,12.0,11.0,Melbourne,11.0,M.C.G.,100,0,0,2026-06-08 17:57:35
 38608,2026,14,Round 14,2026-06-11 19:30:00,Western Bulldogs,18.0,Adelaide,1.0,64,121,9.0,10.0,19.0,7.0,Adelaide,1.0,Docklands,100,0,0,2026-06-11 22:10:29
 38609,2026,14,Round 14,2026-06-12 19:40:00,Geelong,7.0,Gold Coast,8.0,105,60,15.0,15.0,8.0,12.0,Geelong,7.0,Kardinia Park,100,0,0,2026-06-12 22:16:07
-38610,2026,14,Round 14,2026-06-13 13:15:00,Melbourne,11.0,Essendon,5.0,0,0,,,,,,,M.C.G.,0,0,0,2025-11-21 12:16:51
-38611,2026,14,Round 14,2026-06-13 16:15:00,North Melbourne,12.0,West Coast,17.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:51
-38612,2026,14,Round 14,2026-06-13 19:35:00,Port Adelaide,13.0,Sydney,16.0,0,0,,,,,,,Adelaide Oval,0,0,0,2025-11-21 12:16:51
+38610,2026,14,Round 14,2026-06-13 13:15:00,Melbourne,11.0,Essendon,5.0,95,50,13.0,17.0,6.0,14.0,Melbourne,11.0,M.C.G.,100,0,0,2026-06-13 15:44:55
+38611,2026,14,Round 14,2026-06-13 16:15:00,North Melbourne,12.0,West Coast,17.0,74,73,10.0,14.0,10.0,13.0,North Melbourne,12.0,Perth Stadium,100,0,0,2026-06-13 18:57:16
+38612,2026,14,Round 14,2026-06-13 19:35:00,Port Adelaide,13.0,Sydney,16.0,90,93,13.0,12.0,14.0,9.0,Sydney,16.0,Adelaide Oval,100,0,0,2026-06-13 22:10:56
 38613,2026,14,Round 14,2026-06-14 13:10:00,Richmond,14.0,Brisbane Lions,2.0,0,0,,,,,,,Bellerive Oval,0,0,0,2025-11-21 12:16:51
 38614,2026,14,Round 14,2026-06-14 15:15:00,St Kilda,15.0,Greater Western Sydney,9.0,0,0,,,,,,,Docklands,0,0,0,2025-11-21 12:16:51
 38615,2026,15,Round 15,2026-06-18 20:10:00,Fremantle,6.0,Geelong,7.0,0,0,,,,,,,Perth Stadium,0,0,0,2025-11-21 12:16:53
