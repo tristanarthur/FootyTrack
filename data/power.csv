@@ -42335,24 +42335,24 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,15,40,In The Game,16,Sydney,3,5.8456,2026-06-18 22:12:05
 2026,15,40,In The Game,17,West Coast,7,-14.2036,2026-06-18 22:12:05
 2026,15,40,In The Game,18,Western Bulldogs,7,2.1439,2026-06-18 22:12:05
-2026,16,1,Squiggle,1,Adelaide,6,57.8000,2026-06-25 22:18:17
-2026,16,1,Squiggle,2,Brisbane Lions,5,58.9000,2026-06-25 22:18:17
-2026,16,1,Squiggle,3,Carlton,7,56.7000,2026-06-25 22:18:17
-2026,16,1,Squiggle,4,Collingwood,9,55.9000,2026-06-25 22:18:17
-2026,16,1,Squiggle,5,Essendon,17,47.2000,2026-06-25 22:18:17
-2026,16,1,Squiggle,6,Fremantle,1,63.3000,2026-06-25 22:18:17
-2026,16,1,Squiggle,7,Geelong,2,61.8000,2026-06-25 22:18:17
-2026,16,1,Squiggle,8,Gold Coast,8,56.3000,2026-06-25 22:18:17
-2026,16,1,Squiggle,9,Greater Western Sydney,13,54.3000,2026-06-25 22:18:17
-2026,16,1,Squiggle,10,Hawthorn,3,61.7000,2026-06-25 22:18:17
-2026,16,1,Squiggle,11,Melbourne,11,55.2000,2026-06-25 22:18:17
-2026,16,1,Squiggle,12,North Melbourne,15,50.5000,2026-06-25 22:18:17
-2026,16,1,Squiggle,13,Port Adelaide,14,53.6000,2026-06-25 22:18:17
-2026,16,1,Squiggle,14,Richmond,18,43.5000,2026-06-25 22:18:17
-2026,16,1,Squiggle,15,St Kilda,12,55.0000,2026-06-25 22:18:17
-2026,16,1,Squiggle,16,Sydney,4,60.7000,2026-06-25 22:18:17
-2026,16,1,Squiggle,17,West Coast,16,47.4000,2026-06-25 22:18:17
-2026,16,1,Squiggle,18,Western Bulldogs,10,55.4000,2026-06-25 22:18:17
+2026,16,1,Squiggle,1,Adelaide,6,57.8,2026-06-25 22:18:17
+2026,16,1,Squiggle,2,Brisbane Lions,5,58.9,2026-06-25 22:18:17
+2026,16,1,Squiggle,3,Carlton,7,56.7,2026-06-25 22:18:17
+2026,16,1,Squiggle,4,Collingwood,9,55.9,2026-06-25 22:18:17
+2026,16,1,Squiggle,5,Essendon,17,47.2,2026-06-25 22:18:17
+2026,16,1,Squiggle,6,Fremantle,1,63.3,2026-06-25 22:18:17
+2026,16,1,Squiggle,7,Geelong,2,61.8,2026-06-25 22:18:17
+2026,16,1,Squiggle,8,Gold Coast,8,56.3,2026-06-25 22:18:17
+2026,16,1,Squiggle,9,Greater Western Sydney,13,54.3,2026-06-25 22:18:17
+2026,16,1,Squiggle,10,Hawthorn,3,61.7,2026-06-25 22:18:17
+2026,16,1,Squiggle,11,Melbourne,11,55.2,2026-06-25 22:18:17
+2026,16,1,Squiggle,12,North Melbourne,15,50.5,2026-06-25 22:18:17
+2026,16,1,Squiggle,13,Port Adelaide,14,53.6,2026-06-25 22:18:17
+2026,16,1,Squiggle,14,Richmond,18,43.5,2026-06-25 22:18:17
+2026,16,1,Squiggle,15,St Kilda,12,55.0,2026-06-25 22:18:17
+2026,16,1,Squiggle,16,Sydney,4,60.7,2026-06-25 22:18:17
+2026,16,1,Squiggle,17,West Coast,16,47.4,2026-06-25 22:18:17
+2026,16,1,Squiggle,18,Western Bulldogs,10,55.4,2026-06-25 22:18:17
 2026,16,7,PlusSixOne,1,Adelaide,3,1519.9736,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,2,Brisbane Lions,7,1511.2286,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,3,Carlton,8,1501.9645,2026-06-22 20:42:35
@@ -42364,49 +42364,49 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,7,PlusSixOne,9,Greater Western Sydney,11,1497.2497,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,10,Hawthorn,4,1519.8332,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,11,Melbourne,10,1500.3963,2026-06-22 20:42:35
-2026,16,7,PlusSixOne,12,North Melbourne,14,1492.6620,2026-06-22 20:42:35
+2026,16,7,PlusSixOne,12,North Melbourne,14,1492.662,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,13,Port Adelaide,15,1481.3142,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,14,Richmond,16,1466.6205,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,15,St Kilda,13,1494.7536,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,16,Sydney,2,1523.4743,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,17,West Coast,17,1465.4308,2026-06-22 20:42:35
 2026,16,7,PlusSixOne,18,Western Bulldogs,6,1513.3614,2026-06-22 20:42:35
-2026,16,8,Aggregate,1,Adelaide,5,107.3900,2026-06-25 20:31:53
-2026,16,8,Aggregate,2,Brisbane Lions,6,106.6400,2026-06-25 20:31:53
-2026,16,8,Aggregate,3,Carlton,11,99.9600,2026-06-25 20:31:53
-2026,16,8,Aggregate,4,Collingwood,13,99.6000,2026-06-25 20:31:53
-2026,16,8,Aggregate,5,Essendon,16,84.5800,2026-06-25 20:31:53
-2026,16,8,Aggregate,6,Fremantle,2,111.9400,2026-06-25 20:31:53
-2026,16,8,Aggregate,7,Geelong,1,112.2700,2026-06-25 20:31:53
-2026,16,8,Aggregate,8,Gold Coast,7,102.7900,2026-06-25 20:31:53
-2026,16,8,Aggregate,9,Greater Western Sydney,8,102.3700,2026-06-25 20:31:53
-2026,16,8,Aggregate,10,Hawthorn,4,109.6100,2026-06-25 20:31:53
-2026,16,8,Aggregate,11,Melbourne,10,100.9400,2026-06-25 20:31:53
-2026,16,8,Aggregate,12,North Melbourne,15,89.1700,2026-06-25 20:31:53
-2026,16,8,Aggregate,13,Port Adelaide,14,95.9000,2026-06-25 20:31:53
-2026,16,8,Aggregate,14,Richmond,18,79.0100,2026-06-25 20:31:53
-2026,16,8,Aggregate,15,St Kilda,12,99.8900,2026-06-25 20:31:53
-2026,16,8,Aggregate,16,Sydney,3,111.9000,2026-06-25 20:31:53
-2026,16,8,Aggregate,17,West Coast,17,84.1900,2026-06-25 20:31:53
-2026,16,8,Aggregate,18,Western Bulldogs,9,101.8600,2026-06-25 20:31:53
-2026,16,9,Graft,1,Adelaide,4,106.8700,2026-06-22 10:36:37
-2026,16,9,Graft,2,Brisbane Lions,6,93.8000,2026-06-22 10:36:37
-2026,16,9,Graft,3,Carlton,9,91.0400,2026-06-22 10:36:37
-2026,16,9,Graft,4,Collingwood,7,92.1000,2026-06-22 10:36:37
-2026,16,9,Graft,5,Essendon,16,57.3800,2026-06-22 10:36:37
-2026,16,9,Graft,6,Fremantle,2,115.0100,2026-06-22 10:36:37
-2026,16,9,Graft,7,Geelong,1,118.1400,2026-06-22 10:36:37
-2026,16,9,Graft,8,Gold Coast,8,91.1300,2026-06-22 10:36:37
-2026,16,9,Graft,9,Greater Western Sydney,12,88.5800,2026-06-22 10:36:37
-2026,16,9,Graft,10,Hawthorn,5,104.7200,2026-06-22 10:36:37
-2026,16,9,Graft,11,Melbourne,11,88.9700,2026-06-22 10:36:37
-2026,16,9,Graft,12,North Melbourne,15,66.6900,2026-06-22 10:36:37
-2026,16,9,Graft,13,Port Adelaide,14,78.4500,2026-06-22 10:36:37
-2026,16,9,Graft,14,Richmond,18,43.5200,2026-06-22 10:36:37
-2026,16,9,Graft,15,St Kilda,13,85.6300,2026-06-22 10:36:37
-2026,16,9,Graft,16,Sydney,3,107.3900,2026-06-22 10:36:37
-2026,16,9,Graft,17,West Coast,17,55.2400,2026-06-22 10:36:37
-2026,16,9,Graft,18,Western Bulldogs,10,90.7200,2026-06-22 10:36:37
+2026,16,8,Aggregate,1,Adelaide,5,107.39,2026-06-25 20:31:53
+2026,16,8,Aggregate,2,Brisbane Lions,6,106.64,2026-06-25 20:31:53
+2026,16,8,Aggregate,3,Carlton,11,99.96,2026-06-25 20:31:53
+2026,16,8,Aggregate,4,Collingwood,13,99.6,2026-06-25 20:31:53
+2026,16,8,Aggregate,5,Essendon,16,84.58,2026-06-25 20:31:53
+2026,16,8,Aggregate,6,Fremantle,2,111.94,2026-06-25 20:31:53
+2026,16,8,Aggregate,7,Geelong,1,112.27,2026-06-25 20:31:53
+2026,16,8,Aggregate,8,Gold Coast,7,102.79,2026-06-25 20:31:53
+2026,16,8,Aggregate,9,Greater Western Sydney,8,102.37,2026-06-25 20:31:53
+2026,16,8,Aggregate,10,Hawthorn,4,109.61,2026-06-25 20:31:53
+2026,16,8,Aggregate,11,Melbourne,10,100.94,2026-06-25 20:31:53
+2026,16,8,Aggregate,12,North Melbourne,15,89.17,2026-06-25 20:31:53
+2026,16,8,Aggregate,13,Port Adelaide,14,95.9,2026-06-25 20:31:53
+2026,16,8,Aggregate,14,Richmond,18,79.01,2026-06-25 20:31:53
+2026,16,8,Aggregate,15,St Kilda,12,99.89,2026-06-25 20:31:53
+2026,16,8,Aggregate,16,Sydney,3,111.9,2026-06-25 20:31:53
+2026,16,8,Aggregate,17,West Coast,17,84.19,2026-06-25 20:31:53
+2026,16,8,Aggregate,18,Western Bulldogs,9,101.86,2026-06-25 20:31:53
+2026,16,9,Graft,1,Adelaide,4,106.87,2026-06-22 10:36:37
+2026,16,9,Graft,2,Brisbane Lions,6,93.8,2026-06-22 10:36:37
+2026,16,9,Graft,3,Carlton,9,91.04,2026-06-22 10:36:37
+2026,16,9,Graft,4,Collingwood,7,92.1,2026-06-22 10:36:37
+2026,16,9,Graft,5,Essendon,16,57.38,2026-06-22 10:36:37
+2026,16,9,Graft,6,Fremantle,2,115.01,2026-06-22 10:36:37
+2026,16,9,Graft,7,Geelong,1,118.14,2026-06-22 10:36:37
+2026,16,9,Graft,8,Gold Coast,8,91.13,2026-06-22 10:36:37
+2026,16,9,Graft,9,Greater Western Sydney,12,88.58,2026-06-22 10:36:37
+2026,16,9,Graft,10,Hawthorn,5,104.72,2026-06-22 10:36:37
+2026,16,9,Graft,11,Melbourne,11,88.97,2026-06-22 10:36:37
+2026,16,9,Graft,12,North Melbourne,15,66.69,2026-06-22 10:36:37
+2026,16,9,Graft,13,Port Adelaide,14,78.45,2026-06-22 10:36:37
+2026,16,9,Graft,14,Richmond,18,43.52,2026-06-22 10:36:37
+2026,16,9,Graft,15,St Kilda,13,85.63,2026-06-22 10:36:37
+2026,16,9,Graft,16,Sydney,3,107.39,2026-06-22 10:36:37
+2026,16,9,Graft,17,West Coast,17,55.24,2026-06-22 10:36:37
+2026,16,9,Graft,18,Western Bulldogs,10,90.72,2026-06-22 10:36:37
 2026,16,10,Stattraction,1,Adelaide,6,1.4362,2026-06-21 20:08:06
 2026,16,10,Stattraction,2,Brisbane Lions,5,1.5003,2026-06-21 20:08:06
 2026,16,10,Stattraction,3,Carlton,13,0.5047,2026-06-21 20:08:06
@@ -42415,7 +42415,7 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,10,Stattraction,6,Fremantle,2,2.2446,2026-06-21 20:08:06
 2026,16,10,Stattraction,7,Geelong,1,2.3798,2026-06-21 20:08:06
 2026,16,10,Stattraction,8,Gold Coast,8,1.1241,2026-06-21 20:08:06
-2026,16,10,Stattraction,9,Greater Western Sydney,11,0.5460,2026-06-21 20:08:06
+2026,16,10,Stattraction,9,Greater Western Sydney,11,0.546,2026-06-21 20:08:06
 2026,16,10,Stattraction,10,Hawthorn,4,1.6392,2026-06-21 20:08:06
 2026,16,10,Stattraction,11,Melbourne,7,1.1392,2026-06-21 20:08:06
 2026,16,10,Stattraction,12,North Melbourne,15,-0.4501,2026-06-21 20:08:06
@@ -42425,44 +42425,44 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,10,Stattraction,16,Sydney,3,2.0133,2026-06-21 20:08:06
 2026,16,10,Stattraction,17,West Coast,16,-0.9199,2026-06-21 20:08:06
 2026,16,10,Stattraction,18,Western Bulldogs,9,0.8911,2026-06-21 20:08:06
-2026,16,14,Massey Ratings,1,Adelaide,5,12.4100,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,2,Brisbane Lions,6,12.3100,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,3,Carlton,13,-2.2000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,4,Collingwood,8,5.7800,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,5,Essendon,16,-27.8300,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,6,Fremantle,1,23.0000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,7,Geelong,2,22.0300,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,8,Gold Coast,11,0.3800,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,9,Greater Western Sydney,10,0.5500,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,10,Hawthorn,4,14.4000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,11,Melbourne,9,3.8300,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,12,North Melbourne,15,-19.3100,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,13,Port Adelaide,14,-4.3000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,14,Richmond,18,-36.8000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,15,St Kilda,12,-1.2800,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,16,Sydney,3,18.4300,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,17,West Coast,17,-27.9000,2026-06-23 08:54:33
-2026,16,14,Massey Ratings,18,Western Bulldogs,7,6.5200,2026-06-23 08:54:33
-2026,16,15,AFLalytics,1,Adelaide,4,12.8700,2026-06-25 22:35:43
-2026,16,15,AFLalytics,2,Brisbane Lions,6,10.2800,2026-06-25 22:35:43
-2026,16,15,AFLalytics,3,Carlton,13,-0.4100,2026-06-25 22:35:43
-2026,16,15,AFLalytics,4,Collingwood,12,0.4900,2026-06-25 22:35:43
-2026,16,15,AFLalytics,5,Essendon,16,-24.6100,2026-06-25 22:35:43
-2026,16,15,AFLalytics,6,Fremantle,1,19.5000,2026-06-25 22:35:43
-2026,16,15,AFLalytics,7,Geelong,5,12.1100,2026-06-25 22:35:43
-2026,16,15,AFLalytics,8,Gold Coast,8,4.5200,2026-06-25 22:35:43
-2026,16,15,AFLalytics,9,Greater Western Sydney,7,6.7800,2026-06-25 22:35:43
-2026,16,15,AFLalytics,10,Hawthorn,2,18.1300,2026-06-25 22:35:43
-2026,16,15,AFLalytics,11,Melbourne,9,4.3500,2026-06-25 22:35:43
-2026,16,15,AFLalytics,12,North Melbourne,15,-14.1000,2026-06-25 22:35:43
-2026,16,15,AFLalytics,13,Port Adelaide,14,-8.6700,2026-06-25 22:35:43
-2026,16,15,AFLalytics,14,Richmond,18,-34.7000,2026-06-25 22:35:43
-2026,16,15,AFLalytics,15,St Kilda,11,2.8900,2026-06-25 22:35:43
-2026,16,15,AFLalytics,16,Sydney,3,18.0600,2026-06-25 22:35:43
-2026,16,15,AFLalytics,17,West Coast,17,-30.0700,2026-06-25 22:35:43
-2026,16,15,AFLalytics,18,Western Bulldogs,10,3.7000,2026-06-25 22:35:43
+2026,16,14,Massey Ratings,1,Adelaide,5,12.41,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,2,Brisbane Lions,6,12.31,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,3,Carlton,13,-2.2,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,4,Collingwood,8,5.78,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,5,Essendon,16,-27.83,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,6,Fremantle,1,23.0,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,7,Geelong,2,22.03,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,8,Gold Coast,11,0.38,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,9,Greater Western Sydney,10,0.55,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,10,Hawthorn,4,14.4,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,11,Melbourne,9,3.83,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,12,North Melbourne,15,-19.31,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,13,Port Adelaide,14,-4.3,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,14,Richmond,18,-36.8,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,15,St Kilda,12,-1.28,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,16,Sydney,3,18.43,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,17,West Coast,17,-27.9,2026-06-23 08:54:33
+2026,16,14,Massey Ratings,18,Western Bulldogs,7,6.52,2026-06-23 08:54:33
+2026,16,15,AFLalytics,1,Adelaide,4,12.87,2026-06-25 22:35:43
+2026,16,15,AFLalytics,2,Brisbane Lions,6,10.28,2026-06-25 22:35:43
+2026,16,15,AFLalytics,3,Carlton,13,-0.41,2026-06-25 22:35:43
+2026,16,15,AFLalytics,4,Collingwood,12,0.49,2026-06-25 22:35:43
+2026,16,15,AFLalytics,5,Essendon,16,-24.61,2026-06-25 22:35:43
+2026,16,15,AFLalytics,6,Fremantle,1,19.5,2026-06-25 22:35:43
+2026,16,15,AFLalytics,7,Geelong,5,12.11,2026-06-25 22:35:43
+2026,16,15,AFLalytics,8,Gold Coast,8,4.52,2026-06-25 22:35:43
+2026,16,15,AFLalytics,9,Greater Western Sydney,7,6.78,2026-06-25 22:35:43
+2026,16,15,AFLalytics,10,Hawthorn,2,18.13,2026-06-25 22:35:43
+2026,16,15,AFLalytics,11,Melbourne,9,4.35,2026-06-25 22:35:43
+2026,16,15,AFLalytics,12,North Melbourne,15,-14.1,2026-06-25 22:35:43
+2026,16,15,AFLalytics,13,Port Adelaide,14,-8.67,2026-06-25 22:35:43
+2026,16,15,AFLalytics,14,Richmond,18,-34.7,2026-06-25 22:35:43
+2026,16,15,AFLalytics,15,St Kilda,11,2.89,2026-06-25 22:35:43
+2026,16,15,AFLalytics,16,Sydney,3,18.06,2026-06-25 22:35:43
+2026,16,15,AFLalytics,17,West Coast,17,-30.07,2026-06-25 22:35:43
+2026,16,15,AFLalytics,18,Western Bulldogs,10,3.7,2026-06-25 22:35:43
 2026,16,17,AFL Lab,1,Adelaide,6,61.4632,2026-06-22 07:33:33
-2026,16,17,AFL Lab,2,Brisbane Lions,5,64.0750,2026-06-22 07:33:33
+2026,16,17,AFL Lab,2,Brisbane Lions,5,64.075,2026-06-22 07:33:33
 2026,16,17,AFL Lab,3,Carlton,10,51.5471,2026-06-22 07:33:33
 2026,16,17,AFL Lab,4,Collingwood,8,54.7147,2026-06-22 07:33:33
 2026,16,17,AFL Lab,5,Essendon,17,20.9897,2026-06-22 07:33:33
@@ -42486,9 +42486,9 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,22,Glicko Ratings,5,Essendon,17,354.4374,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,6,Fremantle,1,733.6465,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,7,Geelong,2,730.8073,2026-06-24 09:18:14
-2026,16,22,Glicko Ratings,8,Gold Coast,10,542.1200,2026-06-24 09:18:14
+2026,16,22,Glicko Ratings,8,Gold Coast,10,542.12,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,9,Greater Western Sydney,12,528.3803,2026-06-24 09:18:14
-2026,16,22,Glicko Ratings,10,Hawthorn,3,711.7840,2026-06-24 09:18:14
+2026,16,22,Glicko Ratings,10,Hawthorn,3,711.784,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,11,Melbourne,9,579.0542,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,12,North Melbourne,15,437.5032,2026-06-24 09:18:14
 2026,16,22,Glicko Ratings,13,Port Adelaide,13,510.6179,2026-06-24 09:18:14
@@ -42500,75 +42500,75 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,24,The Cruncher,1,Adelaide,4,10.3289,2026-06-25 22:39:11
 2026,16,24,The Cruncher,2,Brisbane Lions,6,3.5396,2026-06-25 22:39:11
 2026,16,24,The Cruncher,3,Carlton,14,-2.3641,2026-06-25 22:39:11
-2026,16,24,The Cruncher,4,Collingwood,8,1.8700,2026-06-25 22:39:11
+2026,16,24,The Cruncher,4,Collingwood,8,1.87,2026-06-25 22:39:11
 2026,16,24,The Cruncher,5,Essendon,17,-16.1023,2026-06-25 22:39:11
 2026,16,24,The Cruncher,6,Fremantle,1,13.8384,2026-06-25 22:39:11
 2026,16,24,The Cruncher,7,Geelong,3,12.4671,2026-06-25 22:39:11
 2026,16,24,The Cruncher,8,Gold Coast,10,-0.1568,2026-06-25 22:39:11
 2026,16,24,The Cruncher,9,Greater Western Sydney,12,-0.4994,2026-06-25 22:39:11
 2026,16,24,The Cruncher,10,Hawthorn,5,6.4407,2026-06-25 22:39:11
-2026,16,24,The Cruncher,11,Melbourne,7,2.7470,2026-06-25 22:39:11
-2026,16,24,The Cruncher,12,North Melbourne,15,-10.3460,2026-06-25 22:39:11
-2026,16,24,The Cruncher,13,Port Adelaide,13,-0.5610,2026-06-25 22:39:11
+2026,16,24,The Cruncher,11,Melbourne,7,2.747,2026-06-25 22:39:11
+2026,16,24,The Cruncher,12,North Melbourne,15,-10.346,2026-06-25 22:39:11
+2026,16,24,The Cruncher,13,Port Adelaide,13,-0.561,2026-06-25 22:39:11
 2026,16,24,The Cruncher,14,Richmond,18,-19.9079,2026-06-25 22:39:11
 2026,16,24,The Cruncher,15,St Kilda,11,-0.3422,2026-06-25 22:39:11
 2026,16,24,The Cruncher,16,Sydney,2,13.5658,2026-06-25 22:39:11
 2026,16,24,The Cruncher,17,West Coast,16,-16.0222,2026-06-25 22:39:11
 2026,16,24,The Cruncher,18,Western Bulldogs,9,1.5043,2026-06-25 22:39:11
-2026,16,26,Wheelo Ratings,1,Adelaide,5,10.8270,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,2,Brisbane Lions,6,7.0420,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,3,Carlton,9,1.0260,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,4,Collingwood,10,0.6330,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,5,Essendon,16,-24.1490,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,6,Fremantle,1,22.8550,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,7,Geelong,2,18.3060,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,8,Gold Coast,8,3.6550,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,9,Greater Western Sydney,11,-0.1840,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,10,Hawthorn,4,17.1660,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,11,Melbourne,7,4.1770,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,12,North Melbourne,15,-12.9860,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,13,Port Adelaide,14,-4.6660,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,14,Richmond,18,-36.0660,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,15,St Kilda,12,-0.2160,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,16,Sydney,3,17.6060,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,17,West Coast,17,-24.3690,2026-06-21 20:18:38
-2026,16,26,Wheelo Ratings,18,Western Bulldogs,13,-0.6580,2026-06-21 20:18:38
-2026,16,27,The Footycast,1,Adelaide,5,112.2100,2026-06-22 15:29:07
-2026,16,27,The Footycast,2,Brisbane Lions,6,107.5600,2026-06-22 15:29:07
-2026,16,27,The Footycast,3,Carlton,7,103.1700,2026-06-22 15:29:07
-2026,16,27,The Footycast,4,Collingwood,9,102.7100,2026-06-22 15:29:07
-2026,16,27,The Footycast,5,Essendon,17,74.9500,2026-06-22 15:29:07
-2026,16,27,The Footycast,6,Fremantle,2,121.5600,2026-06-22 15:29:07
-2026,16,27,The Footycast,7,Geelong,1,124.3300,2026-06-22 15:29:07
-2026,16,27,The Footycast,8,Gold Coast,10,101.7800,2026-06-22 15:29:07
-2026,16,27,The Footycast,9,Greater Western Sydney,12,99.1000,2026-06-22 15:29:07
-2026,16,27,The Footycast,10,Hawthorn,3,113.4700,2026-06-22 15:29:07
-2026,16,27,The Footycast,11,Melbourne,8,102.8300,2026-06-22 15:29:07
-2026,16,27,The Footycast,12,North Melbourne,15,89.6500,2026-06-22 15:29:07
-2026,16,27,The Footycast,13,Port Adelaide,14,91.7400,2026-06-22 15:29:07
-2026,16,27,The Footycast,14,Richmond,18,68.7200,2026-06-22 15:29:07
-2026,16,27,The Footycast,15,St Kilda,13,96.6100,2026-06-22 15:29:07
-2026,16,27,The Footycast,16,Sydney,4,112.9100,2026-06-22 15:29:07
-2026,16,27,The Footycast,17,West Coast,16,76.3100,2026-06-22 15:29:07
-2026,16,27,The Footycast,18,Western Bulldogs,11,100.3900,2026-06-22 15:29:07
-2026,16,28,Elo Predicts!,1,Adelaide,5,1630.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,2,Brisbane Lions,6,1629.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,3,Carlton,12,1476.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,4,Collingwood,7,1575.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,5,Essendon,16,1283.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,6,Fremantle,2,1651.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,7,Geelong,1,1688.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,8,Gold Coast,10,1538.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,9,Greater Western Sydney,9,1544.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,10,Hawthorn,4,1636.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,11,Melbourne,11,1482.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,12,North Melbourne,15,1348.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,13,Port Adelaide,14,1418.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,14,Richmond,17,1228.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,15,St Kilda,13,1444.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,16,Sydney,3,1639.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,17,West Coast,18,1228.0000,2026-06-25 15:54:31
-2026,16,28,Elo Predicts!,18,Western Bulldogs,8,1557.0000,2026-06-25 15:54:31
+2026,16,26,Wheelo Ratings,1,Adelaide,5,10.827,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,2,Brisbane Lions,6,7.042,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,3,Carlton,9,1.026,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,4,Collingwood,10,0.633,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,5,Essendon,16,-24.149,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,6,Fremantle,1,22.855,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,7,Geelong,2,18.306,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,8,Gold Coast,8,3.655,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,9,Greater Western Sydney,11,-0.184,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,10,Hawthorn,4,17.166,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,11,Melbourne,7,4.177,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,12,North Melbourne,15,-12.986,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,13,Port Adelaide,14,-4.666,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,14,Richmond,18,-36.066,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,15,St Kilda,12,-0.216,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,16,Sydney,3,17.606,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,17,West Coast,17,-24.369,2026-06-21 20:18:38
+2026,16,26,Wheelo Ratings,18,Western Bulldogs,13,-0.658,2026-06-21 20:18:38
+2026,16,27,The Footycast,1,Adelaide,5,112.21,2026-06-22 15:29:07
+2026,16,27,The Footycast,2,Brisbane Lions,6,107.56,2026-06-22 15:29:07
+2026,16,27,The Footycast,3,Carlton,7,103.17,2026-06-22 15:29:07
+2026,16,27,The Footycast,4,Collingwood,9,102.71,2026-06-22 15:29:07
+2026,16,27,The Footycast,5,Essendon,17,74.95,2026-06-22 15:29:07
+2026,16,27,The Footycast,6,Fremantle,2,121.56,2026-06-22 15:29:07
+2026,16,27,The Footycast,7,Geelong,1,124.33,2026-06-22 15:29:07
+2026,16,27,The Footycast,8,Gold Coast,10,101.78,2026-06-22 15:29:07
+2026,16,27,The Footycast,9,Greater Western Sydney,12,99.1,2026-06-22 15:29:07
+2026,16,27,The Footycast,10,Hawthorn,3,113.47,2026-06-22 15:29:07
+2026,16,27,The Footycast,11,Melbourne,8,102.83,2026-06-22 15:29:07
+2026,16,27,The Footycast,12,North Melbourne,15,89.65,2026-06-22 15:29:07
+2026,16,27,The Footycast,13,Port Adelaide,14,91.74,2026-06-22 15:29:07
+2026,16,27,The Footycast,14,Richmond,18,68.72,2026-06-22 15:29:07
+2026,16,27,The Footycast,15,St Kilda,13,96.61,2026-06-22 15:29:07
+2026,16,27,The Footycast,16,Sydney,4,112.91,2026-06-22 15:29:07
+2026,16,27,The Footycast,17,West Coast,16,76.31,2026-06-22 15:29:07
+2026,16,27,The Footycast,18,Western Bulldogs,11,100.39,2026-06-22 15:29:07
+2026,16,28,Elo Predicts!,1,Adelaide,5,1630.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,2,Brisbane Lions,6,1629.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,3,Carlton,12,1476.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,4,Collingwood,7,1575.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,5,Essendon,16,1283.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,6,Fremantle,2,1651.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,7,Geelong,1,1688.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,8,Gold Coast,10,1538.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,9,Greater Western Sydney,9,1544.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,10,Hawthorn,4,1636.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,11,Melbourne,11,1482.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,12,North Melbourne,15,1348.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,13,Port Adelaide,14,1418.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,14,Richmond,17,1228.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,15,St Kilda,13,1444.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,16,Sydney,3,1639.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,17,West Coast,18,1228.0,2026-06-25 15:54:31
+2026,16,28,Elo Predicts!,18,Western Bulldogs,8,1557.0,2026-06-25 15:54:31
 2026,16,33,Hyperion,1,Adelaide,3,1689.2341,2026-06-22 12:34:20
 2026,16,33,Hyperion,2,Brisbane Lions,7,1623.0899,2026-06-22 12:34:20
 2026,16,33,Hyperion,3,Carlton,12,1461.9366,2026-06-22 12:34:20
@@ -42576,7 +42576,7 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,33,Hyperion,5,Essendon,18,1128.5103,2026-06-22 12:34:20
 2026,16,33,Hyperion,6,Fremantle,1,1822.7498,2026-06-22 12:34:20
 2026,16,33,Hyperion,7,Geelong,6,1641.2792,2026-06-22 12:34:20
-2026,16,33,Hyperion,8,Gold Coast,8,1552.5440,2026-06-22 12:34:20
+2026,16,33,Hyperion,8,Gold Coast,8,1552.544,2026-06-22 12:34:20
 2026,16,33,Hyperion,9,Greater Western Sydney,10,1531.8522,2026-06-22 12:34:20
 2026,16,33,Hyperion,10,Hawthorn,5,1656.2113,2026-06-22 12:34:20
 2026,16,33,Hyperion,11,Melbourne,11,1486.0656,2026-06-22 12:34:20
@@ -42586,13 +42586,13 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,33,Hyperion,15,St Kilda,13,1423.0565,2026-06-22 12:34:20
 2026,16,33,Hyperion,16,Sydney,2,1738.3559,2026-06-22 12:34:20
 2026,16,33,Hyperion,17,West Coast,16,1164.6169,2026-06-22 12:34:20
-2026,16,33,Hyperion,18,Western Bulldogs,4,1675.6110,2026-06-22 12:34:20
+2026,16,33,Hyperion,18,Western Bulldogs,4,1675.611,2026-06-22 12:34:20
 2026,16,34,Don't Blame the Data,1,Adelaide,6,106.4731,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,2,Brisbane Lions,5,108.6523,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,3,Carlton,10,100.8066,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,4,Collingwood,7,103.7566,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,5,Essendon,17,83.9977,2026-06-24 10:25:16
-2026,16,34,Don't Blame the Data,6,Fremantle,1,113.6780,2026-06-24 10:25:16
+2026,16,34,Don't Blame the Data,6,Fremantle,1,113.678,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,7,Geelong,2,112.6854,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,8,Gold Coast,8,101.8568,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,9,Greater Western Sydney,13,99.2135,2026-06-24 10:25:16
@@ -42604,7 +42604,7 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,34,Don't Blame the Data,15,St Kilda,11,100.1116,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,16,Sydney,4,109.3229,2026-06-24 10:25:16
 2026,16,34,Don't Blame the Data,17,West Coast,16,85.1249,2026-06-24 10:25:16
-2026,16,34,Don't Blame the Data,18,Western Bulldogs,9,101.3990,2026-06-24 10:25:16
+2026,16,34,Don't Blame the Data,18,Western Bulldogs,9,101.399,2026-06-24 10:25:16
 2026,16,35,footycharts,1,Adelaide,5,1519.6388,2026-06-21 21:19:51
 2026,16,35,footycharts,2,Brisbane Lions,6,1516.2451,2026-06-21 21:19:51
 2026,16,35,footycharts,3,Carlton,7,1514.7652,2026-06-21 21:19:51
@@ -42623,24 +42623,24 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,35,footycharts,16,Sydney,3,1532.2811,2026-06-21 21:19:51
 2026,16,35,footycharts,17,West Coast,17,1447.9901,2026-06-21 21:19:51
 2026,16,35,footycharts,18,Western Bulldogs,13,1497.4849,2026-06-21 21:19:51
-2026,16,36,What Snoo Thinks,1,Adelaide,5,8.9300,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,2,Brisbane Lions,8,3.7300,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,3,Carlton,12,1.6700,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,4,Collingwood,9,2.7700,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,5,Essendon,17,-26.9600,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,6,Fremantle,4,15.5100,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,7,Geelong,1,22.4200,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,8,Gold Coast,6,7.7700,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,9,Greater Western Sydney,7,4.2300,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,10,Hawthorn,3,19.0100,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,11,Melbourne,10,2.2000,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,12,North Melbourne,15,-11.3000,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,13,Port Adelaide,14,-7.5000,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,14,Richmond,18,-38.2000,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,15,St Kilda,13,-0.5200,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,16,Sydney,2,19.1400,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,17,West Coast,16,-24.6600,2026-06-04 22:28:05
-2026,16,36,What Snoo Thinks,18,Western Bulldogs,11,1.7600,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,1,Adelaide,5,8.93,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,2,Brisbane Lions,8,3.73,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,3,Carlton,12,1.67,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,4,Collingwood,9,2.77,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,5,Essendon,17,-26.96,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,6,Fremantle,4,15.51,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,7,Geelong,1,22.42,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,8,Gold Coast,6,7.77,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,9,Greater Western Sydney,7,4.23,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,10,Hawthorn,3,19.01,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,11,Melbourne,10,2.2,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,12,North Melbourne,15,-11.3,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,13,Port Adelaide,14,-7.5,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,14,Richmond,18,-38.2,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,15,St Kilda,13,-0.52,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,16,Sydney,2,19.14,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,17,West Coast,16,-24.66,2026-06-04 22:28:05
+2026,16,36,What Snoo Thinks,18,Western Bulldogs,11,1.76,2026-06-04 22:28:05
 2026,16,37,Winnable,1,Adelaide,6,68.3782,2026-06-21 23:21:27
 2026,16,37,Winnable,2,Brisbane Lions,4,71.0718,2026-06-21 23:21:27
 2026,16,37,Winnable,3,Carlton,7,64.7729,2026-06-21 23:21:27
@@ -42659,10 +42659,10 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,37,Winnable,16,Sydney,3,73.5219,2026-06-21 23:21:27
 2026,16,37,Winnable,17,West Coast,17,33.0956,2026-06-21 23:21:27
 2026,16,37,Winnable,18,Western Bulldogs,12,56.7526,2026-06-21 23:21:27
-2026,16,38,Informed Stats,1,Adelaide,2,126.9790,2026-06-23 16:31:04
+2026,16,38,Informed Stats,1,Adelaide,2,126.979,2026-06-23 16:31:04
 2026,16,38,Informed Stats,2,Brisbane Lions,6,117.9973,2026-06-23 16:31:04
 2026,16,38,Informed Stats,3,Carlton,10,99.8578,2026-06-23 16:31:04
-2026,16,38,Informed Stats,4,Collingwood,7,107.1320,2026-06-23 16:31:04
+2026,16,38,Informed Stats,4,Collingwood,7,107.132,2026-06-23 16:31:04
 2026,16,38,Informed Stats,5,Essendon,17,68.3123,2026-06-23 16:31:04
 2026,16,38,Informed Stats,6,Fremantle,1,140.6723,2026-06-23 16:31:04
 2026,16,38,Informed Stats,7,Geelong,3,123.9291,2026-06-23 16:31:04
@@ -42686,12 +42686,372 @@ year,round,sourceid,source,teamid,team,rank,power,updated
 2026,16,40,In The Game,7,Geelong,1,14.6578,2026-06-26 01:38:33
 2026,16,40,In The Game,8,Gold Coast,3,5.1804,2026-06-26 01:38:33
 2026,16,40,In The Game,9,Greater Western Sydney,2,6.2042,2026-06-26 01:38:33
-2026,16,40,In The Game,10,Hawthorn,1,6.7930,2026-06-26 01:38:33
-2026,16,40,In The Game,11,Melbourne,6,-2.7240,2026-06-26 01:38:33
+2026,16,40,In The Game,10,Hawthorn,1,6.793,2026-06-26 01:38:33
+2026,16,40,In The Game,11,Melbourne,6,-2.724,2026-06-26 01:38:33
 2026,16,40,In The Game,12,North Melbourne,11,-15.4964,2026-06-26 01:38:33
-2026,16,40,In The Game,13,Port Adelaide,8,-8.1330,2026-06-26 01:38:33
+2026,16,40,In The Game,13,Port Adelaide,8,-8.133,2026-06-26 01:38:33
 2026,16,40,In The Game,14,Richmond,12,-19.9482,2026-06-26 01:38:33
 2026,16,40,In The Game,15,St Kilda,2,-2.4968,2026-06-26 01:38:33
 2026,16,40,In The Game,16,Sydney,2,10.5321,2026-06-26 01:38:33
 2026,16,40,In The Game,17,West Coast,9,-13.7277,2026-06-26 01:38:33
 2026,16,40,In The Game,18,Western Bulldogs,1,2.0791,2026-06-26 01:38:33
+2026,17,1,Squiggle,1,Adelaide,7,56.5000,2026-07-02 22:19:18
+2026,17,1,Squiggle,2,Brisbane Lions,5,59.7000,2026-07-02 22:19:18
+2026,17,1,Squiggle,3,Carlton,6,57.1000,2026-07-02 22:19:18
+2026,17,1,Squiggle,4,Collingwood,8,56.0000,2026-07-02 22:19:18
+2026,17,1,Squiggle,5,Essendon,17,46.7000,2026-07-02 22:19:18
+2026,17,1,Squiggle,6,Fremantle,1,64.1000,2026-07-02 22:19:18
+2026,17,1,Squiggle,7,Geelong,2,61.4000,2026-07-02 22:19:18
+2026,17,1,Squiggle,8,Gold Coast,9,56.0000,2026-07-02 22:19:18
+2026,17,1,Squiggle,9,Greater Western Sydney,14,54.7000,2026-07-02 22:19:18
+2026,17,1,Squiggle,10,Hawthorn,3,61.1000,2026-07-02 22:19:18
+2026,17,1,Squiggle,11,Melbourne,12,55.2000,2026-07-02 22:19:18
+2026,17,1,Squiggle,12,North Melbourne,15,50.9000,2026-07-02 22:19:18
+2026,17,1,Squiggle,13,Port Adelaide,10,55.5000,2026-07-02 22:19:18
+2026,17,1,Squiggle,14,Richmond,18,43.5000,2026-07-02 22:19:18
+2026,17,1,Squiggle,15,St Kilda,13,55.0000,2026-07-02 22:19:18
+2026,17,1,Squiggle,16,Sydney,4,60.7000,2026-07-02 22:19:18
+2026,17,1,Squiggle,17,West Coast,16,47.2000,2026-07-02 22:19:18
+2026,17,1,Squiggle,18,Western Bulldogs,11,55.4000,2026-07-02 22:19:18
+2026,17,7,PlusSixOne,1,Adelaide,6,1514.4215,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,2,Brisbane Lions,5,1514.4350,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,3,Carlton,8,1503.0772,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,4,Collingwood,9,1502.0694,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,5,Essendon,18,1463.6723,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,6,Fremantle,1,1535.0485,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,7,Geelong,4,1515.4312,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,8,Gold Coast,12,1495.2546,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,9,Greater Western Sydney,11,1495.7951,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,10,Hawthorn,2,1521.2878,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,11,Melbourne,10,1500.3963,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,12,North Melbourne,14,1494.2673,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,13,Port Adelaide,15,1486.8664,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,14,Richmond,16,1465.2765,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,15,St Kilda,13,1494.7536,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,16,Sydney,3,1520.2680,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,17,West Coast,17,1464.3180,2026-06-28 22:26:08
+2026,17,7,PlusSixOne,18,Western Bulldogs,7,1513.3614,2026-06-28 22:26:08
+2026,17,8,Aggregate,1,Adelaide,6,104.7600,2026-07-02 20:31:18
+2026,17,8,Aggregate,2,Brisbane Lions,4,109.2400,2026-07-02 20:31:18
+2026,17,8,Aggregate,3,Carlton,8,101.8400,2026-07-02 20:31:18
+2026,17,8,Aggregate,4,Collingwood,11,100.5300,2026-07-02 20:31:18
+2026,17,8,Aggregate,5,Essendon,16,84.4400,2026-07-02 20:31:18
+2026,17,8,Aggregate,6,Fremantle,2,113.2800,2026-07-02 20:31:18
+2026,17,8,Aggregate,7,Geelong,1,113.3400,2026-07-02 20:31:18
+2026,17,8,Aggregate,8,Gold Coast,7,103.5700,2026-07-02 20:31:18
+2026,17,8,Aggregate,9,Greater Western Sydney,10,100.5700,2026-07-02 20:31:18
+2026,17,8,Aggregate,10,Hawthorn,5,108.7500,2026-07-02 20:31:18
+2026,17,8,Aggregate,11,Melbourne,12,100.0300,2026-07-02 20:31:18
+2026,17,8,Aggregate,12,North Melbourne,15,90.1200,2026-07-02 20:31:18
+2026,17,8,Aggregate,13,Port Adelaide,14,96.7000,2026-07-02 20:31:18
+2026,17,8,Aggregate,14,Richmond,18,79.5300,2026-07-02 20:31:18
+2026,17,8,Aggregate,15,St Kilda,13,98.2200,2026-07-02 20:31:18
+2026,17,8,Aggregate,16,Sydney,3,109.9200,2026-07-02 20:31:18
+2026,17,8,Aggregate,17,West Coast,17,84.0200,2026-07-02 20:31:18
+2026,17,8,Aggregate,18,Western Bulldogs,9,101.1600,2026-07-02 20:31:18
+2026,17,9,Graft,1,Adelaide,5,101.4300,2026-06-28 20:12:19
+2026,17,9,Graft,2,Brisbane Lions,6,98.2600,2026-06-28 20:12:19
+2026,17,9,Graft,3,Carlton,7,91.5600,2026-06-28 20:12:19
+2026,17,9,Graft,4,Collingwood,9,90.6400,2026-06-28 20:12:19
+2026,17,9,Graft,5,Essendon,16,56.9100,2026-06-28 20:12:19
+2026,17,9,Graft,6,Fremantle,2,116.5200,2026-06-28 20:12:19
+2026,17,9,Graft,7,Geelong,1,118.1400,2026-06-28 20:12:19
+2026,17,9,Graft,8,Gold Coast,11,89.6200,2026-06-28 20:12:19
+2026,17,9,Graft,9,Greater Western Sydney,10,89.9900,2026-06-28 20:12:19
+2026,17,9,Graft,10,Hawthorn,3,103.3000,2026-06-28 20:12:19
+2026,17,9,Graft,11,Melbourne,12,88.9700,2026-06-28 20:12:19
+2026,17,9,Graft,12,North Melbourne,15,67.1600,2026-06-28 20:12:19
+2026,17,9,Graft,13,Port Adelaide,14,83.8900,2026-06-28 20:12:19
+2026,17,9,Graft,14,Richmond,18,44.9800,2026-06-28 20:12:19
+2026,17,9,Graft,15,St Kilda,13,85.6300,2026-06-28 20:12:19
+2026,17,9,Graft,16,Sydney,4,102.9300,2026-06-28 20:12:19
+2026,17,9,Graft,17,West Coast,17,54.7200,2026-06-28 20:12:19
+2026,17,9,Graft,18,Western Bulldogs,8,90.7200,2026-06-28 20:12:19
+2026,17,10,Stattraction,1,Adelaide,6,1.2583,2026-06-29 08:52:07
+2026,17,10,Stattraction,2,Brisbane Lions,5,1.7084,2026-06-29 08:52:07
+2026,17,10,Stattraction,3,Carlton,11,0.6279,2026-06-29 08:52:07
+2026,17,10,Stattraction,4,Collingwood,10,0.7233,2026-06-29 08:52:07
+2026,17,10,Stattraction,5,Essendon,17,-1.3227,2026-06-29 08:52:07
+2026,17,10,Stattraction,6,Fremantle,1,2.5074,2026-06-29 08:52:07
+2026,17,10,Stattraction,7,Geelong,2,2.4235,2026-06-29 08:52:07
+2026,17,10,Stattraction,8,Gold Coast,8,0.9629,2026-06-29 08:52:07
+2026,17,10,Stattraction,9,Greater Western Sydney,13,0.4877,2026-06-29 08:52:07
+2026,17,10,Stattraction,10,Hawthorn,4,1.7513,2026-06-29 08:52:07
+2026,17,10,Stattraction,11,Melbourne,7,1.1699,2026-06-29 08:52:07
+2026,17,10,Stattraction,12,North Melbourne,15,-0.4028,2026-06-29 08:52:07
+2026,17,10,Stattraction,13,Port Adelaide,14,0.2850,2026-06-29 08:52:07
+2026,17,10,Stattraction,14,Richmond,18,-1.7105,2026-06-29 08:52:07
+2026,17,10,Stattraction,15,St Kilda,12,0.5454,2026-06-29 08:52:07
+2026,17,10,Stattraction,16,Sydney,3,1.9101,2026-06-29 08:52:07
+2026,17,10,Stattraction,17,West Coast,16,-1.0081,2026-06-29 08:52:07
+2026,17,10,Stattraction,18,Western Bulldogs,9,0.9016,2026-06-29 08:52:07
+2026,17,14,Massey Ratings,1,Adelaide,5,12.4100,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,2,Brisbane Lions,6,12.3100,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,3,Carlton,13,-2.2000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,4,Collingwood,8,5.7800,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,5,Essendon,16,-27.8300,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,6,Fremantle,1,23.0000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,7,Geelong,2,22.0300,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,8,Gold Coast,11,0.3800,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,9,Greater Western Sydney,10,0.5500,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,10,Hawthorn,4,14.4000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,11,Melbourne,9,3.8300,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,12,North Melbourne,15,-19.3100,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,13,Port Adelaide,14,-4.3000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,14,Richmond,18,-36.8000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,15,St Kilda,12,-1.2800,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,16,Sydney,3,18.4300,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,17,West Coast,17,-27.9000,2026-06-23 08:54:33
+2026,17,14,Massey Ratings,18,Western Bulldogs,7,6.5200,2026-06-23 08:54:33
+2026,17,15,AFLalytics,1,Adelaide,6,9.5400,2026-07-02 22:38:30
+2026,17,15,AFLalytics,2,Brisbane Lions,5,11.5500,2026-07-02 22:38:30
+2026,17,15,AFLalytics,3,Carlton,13,0.6100,2026-07-02 22:38:30
+2026,17,15,AFLalytics,4,Collingwood,11,3.0300,2026-07-02 22:38:30
+2026,17,15,AFLalytics,5,Essendon,16,-23.0900,2026-07-02 22:38:30
+2026,17,15,AFLalytics,6,Fremantle,1,22.0700,2026-07-02 22:38:30
+2026,17,15,AFLalytics,7,Geelong,3,14.8100,2026-07-02 22:38:30
+2026,17,15,AFLalytics,8,Gold Coast,10,3.3100,2026-07-02 22:38:30
+2026,17,15,AFLalytics,9,Greater Western Sydney,7,5.4500,2026-07-02 22:38:30
+2026,17,15,AFLalytics,10,Hawthorn,4,14.2200,2026-07-02 22:38:30
+2026,17,15,AFLalytics,11,Melbourne,8,4.1200,2026-07-02 22:38:30
+2026,17,15,AFLalytics,12,North Melbourne,15,-18.7000,2026-07-02 22:38:30
+2026,17,15,AFLalytics,13,Port Adelaide,14,-5.9300,2026-07-02 22:38:30
+2026,17,15,AFLalytics,14,Richmond,18,-33.0000,2026-07-02 22:38:30
+2026,17,15,AFLalytics,15,St Kilda,12,2.6600,2026-07-02 22:38:30
+2026,17,15,AFLalytics,16,Sydney,2,17.8200,2026-07-02 22:38:30
+2026,17,15,AFLalytics,17,West Coast,17,-31.0200,2026-07-02 22:38:30
+2026,17,15,AFLalytics,18,Western Bulldogs,9,3.4800,2026-07-02 22:38:30
+2026,17,17,AFL Lab,1,Adelaide,6,57.7838,2026-07-01 01:08:30
+2026,17,17,AFL Lab,2,Brisbane Lions,3,66.9500,2026-07-01 01:08:30
+2026,17,17,AFL Lab,3,Carlton,10,52.0559,2026-07-01 01:08:30
+2026,17,17,AFL Lab,4,Collingwood,8,54.0221,2026-07-01 01:08:30
+2026,17,17,AFL Lab,5,Essendon,17,19.5147,2026-07-01 01:08:30
+2026,17,17,AFL Lab,6,Fremantle,1,70.4309,2026-07-01 01:08:30
+2026,17,17,AFL Lab,7,Geelong,2,68.7691,2026-07-01 01:08:30
+2026,17,17,AFL Lab,8,Gold Coast,7,54.7426,2026-07-01 01:08:30
+2026,17,17,AFL Lab,9,Greater Western Sydney,13,50.0235,2026-07-01 01:08:30
+2026,17,17,AFL Lab,10,Hawthorn,4,65.7235,2026-07-01 01:08:30
+2026,17,17,AFL Lab,11,Melbourne,11,51.2721,2026-07-01 01:08:30
+2026,17,17,AFL Lab,12,North Melbourne,15,33.5368,2026-07-01 01:08:30
+2026,17,17,AFL Lab,13,Port Adelaide,12,50.0368,2026-07-01 01:08:30
+2026,17,17,AFL Lab,14,Richmond,18,14.0456,2026-07-01 01:08:30
+2026,17,17,AFL Lab,15,St Kilda,14,47.6838,2026-07-01 01:08:30
+2026,17,17,AFL Lab,16,Sydney,5,63.4294,2026-07-01 01:08:30
+2026,17,17,AFL Lab,17,West Coast,16,26.9735,2026-07-01 01:08:30
+2026,17,17,AFL Lab,18,Western Bulldogs,9,53.0059,2026-07-01 01:08:30
+2026,17,22,Glicko Ratings,1,Adelaide,9,568.1611,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,2,Brisbane Lions,4,693.6576,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,3,Carlton,5,655.0312,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,4,Collingwood,7,594.0135,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,5,Essendon,17,337.1126,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,6,Fremantle,1,742.8624,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,7,Geelong,2,730.8073,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,8,Gold Coast,13,533.5519,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,9,Greater Western Sydney,11,537.6500,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,10,Hawthorn,3,702.2297,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,11,Melbourne,8,579.0542,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,12,North Melbourne,15,453.6023,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,13,Port Adelaide,10,555.2028,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,14,Richmond,18,227.4604,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,15,St Kilda,12,535.0679,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,16,Sydney,6,626.6814,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,17,West Coast,16,352.3284,2026-06-30 05:53:33
+2026,17,22,Glicko Ratings,18,Western Bulldogs,14,501.1804,2026-06-30 05:53:33
+2026,17,24,The Cruncher,1,Adelaide,4,10.3289,2026-06-25 22:39:11
+2026,17,24,The Cruncher,2,Brisbane Lions,6,3.5396,2026-06-25 22:39:11
+2026,17,24,The Cruncher,3,Carlton,14,-2.3641,2026-06-25 22:39:11
+2026,17,24,The Cruncher,4,Collingwood,8,1.8700,2026-06-25 22:39:11
+2026,17,24,The Cruncher,5,Essendon,17,-16.1023,2026-06-25 22:39:11
+2026,17,24,The Cruncher,6,Fremantle,1,13.8384,2026-06-25 22:39:11
+2026,17,24,The Cruncher,7,Geelong,3,12.4671,2026-06-25 22:39:11
+2026,17,24,The Cruncher,8,Gold Coast,10,-0.1568,2026-06-25 22:39:11
+2026,17,24,The Cruncher,9,Greater Western Sydney,12,-0.4994,2026-06-25 22:39:11
+2026,17,24,The Cruncher,10,Hawthorn,5,6.4407,2026-06-25 22:39:11
+2026,17,24,The Cruncher,11,Melbourne,7,2.7470,2026-06-25 22:39:11
+2026,17,24,The Cruncher,12,North Melbourne,15,-10.3460,2026-06-25 22:39:11
+2026,17,24,The Cruncher,13,Port Adelaide,13,-0.5610,2026-06-25 22:39:11
+2026,17,24,The Cruncher,14,Richmond,18,-19.9079,2026-06-25 22:39:11
+2026,17,24,The Cruncher,15,St Kilda,11,-0.3422,2026-06-25 22:39:11
+2026,17,24,The Cruncher,16,Sydney,2,13.5658,2026-06-25 22:39:11
+2026,17,24,The Cruncher,17,West Coast,16,-16.0222,2026-06-25 22:39:11
+2026,17,24,The Cruncher,18,Western Bulldogs,9,1.5043,2026-06-25 22:39:11
+2026,17,26,Wheelo Ratings,1,Adelaide,6,6.3340,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,2,Brisbane Lions,5,9.3450,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,3,Carlton,9,1.7010,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,4,Collingwood,10,1.2970,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,5,Essendon,17,-25.6050,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,6,Fremantle,1,24.1780,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,7,Geelong,2,18.3070,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,8,Gold Coast,8,2.3320,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,9,Greater Western Sydney,11,1.2780,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,10,Hawthorn,3,15.7060,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,11,Melbourne,7,4.1770,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,12,North Melbourne,15,-11.5300,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,13,Port Adelaide,12,-0.1730,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,14,Richmond,18,-36.7310,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,15,St Kilda,13,-0.2160,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,16,Sydney,4,15.3020,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,17,West Coast,16,-25.0430,2026-06-28 21:21:43
+2026,17,26,Wheelo Ratings,18,Western Bulldogs,14,-0.6580,2026-06-28 21:21:43
+2026,17,27,The Footycast,1,Adelaide,6,107.8200,2026-06-30 09:57:21
+2026,17,27,The Footycast,2,Brisbane Lions,4,110.7300,2026-06-30 09:57:21
+2026,17,27,The Footycast,3,Carlton,7,104.0400,2026-06-30 09:57:21
+2026,17,27,The Footycast,4,Collingwood,9,102.7100,2026-06-30 09:57:21
+2026,17,27,The Footycast,5,Essendon,17,75.0100,2026-06-30 09:57:21
+2026,17,27,The Footycast,6,Fremantle,2,122.8400,2026-06-30 09:57:21
+2026,17,27,The Footycast,7,Geelong,1,124.3300,2026-06-30 09:57:21
+2026,17,27,The Footycast,8,Gold Coast,10,100.5000,2026-06-30 09:57:21
+2026,17,27,The Footycast,9,Greater Western Sydney,12,99.9300,2026-06-30 09:57:21
+2026,17,27,The Footycast,10,Hawthorn,3,112.6400,2026-06-30 09:57:21
+2026,17,27,The Footycast,11,Melbourne,8,102.8300,2026-06-30 09:57:21
+2026,17,27,The Footycast,12,North Melbourne,15,89.5900,2026-06-30 09:57:21
+2026,17,27,The Footycast,13,Port Adelaide,14,96.1300,2026-06-30 09:57:21
+2026,17,27,The Footycast,14,Richmond,18,68.7200,2026-06-30 09:57:21
+2026,17,27,The Footycast,15,St Kilda,13,96.6100,2026-06-30 09:57:21
+2026,17,27,The Footycast,16,Sydney,5,109.7400,2026-06-30 09:57:21
+2026,17,27,The Footycast,17,West Coast,16,75.4400,2026-06-30 09:57:21
+2026,17,27,The Footycast,18,Western Bulldogs,11,100.3900,2026-06-30 09:57:21
+2026,17,28,Elo Predicts!,1,Adelaide,6,1604.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,2,Brisbane Lions,3,1645.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,3,Carlton,12,1480.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,4,Collingwood,7,1578.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,5,Essendon,16,1276.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,6,Fremantle,2,1660.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,7,Geelong,1,1688.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,8,Gold Coast,10,1529.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,9,Greater Western Sydney,9,1540.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,10,Hawthorn,4,1641.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,11,Melbourne,11,1482.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,12,North Melbourne,15,1355.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,13,Port Adelaide,13,1444.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,14,Richmond,17,1225.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,15,St Kilda,14,1444.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,16,Sydney,5,1623.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,17,West Coast,18,1224.0000,2026-07-01 07:11:11
+2026,17,28,Elo Predicts!,18,Western Bulldogs,8,1557.0000,2026-07-01 07:11:11
+2026,17,33,Hyperion,1,Adelaide,6,1643.1799,2026-06-29 12:36:45
+2026,17,33,Hyperion,2,Brisbane Lions,5,1650.1138,2026-06-29 12:36:45
+2026,17,33,Hyperion,3,Carlton,12,1466.5514,2026-06-29 12:36:45
+2026,17,33,Hyperion,4,Collingwood,8,1556.1436,2026-06-29 12:36:45
+2026,17,33,Hyperion,5,Essendon,18,1118.3099,2026-06-29 12:36:45
+2026,17,33,Hyperion,6,Fremantle,1,1829.5482,2026-06-29 12:36:45
+2026,17,33,Hyperion,7,Geelong,7,1640.7494,2026-06-29 12:36:45
+2026,17,33,Hyperion,8,Gold Coast,9,1546.2754,2026-06-29 12:36:45
+2026,17,33,Hyperion,9,Greater Western Sydney,10,1523.1132,2026-06-29 12:36:45
+2026,17,33,Hyperion,10,Hawthorn,4,1664.9503,2026-06-29 12:36:45
+2026,17,33,Hyperion,11,Melbourne,11,1486.0656,2026-06-29 12:36:45
+2026,17,33,Hyperion,12,North Melbourne,14,1383.0727,2026-06-29 12:36:45
+2026,17,33,Hyperion,13,Port Adelaide,15,1374.9753,2026-06-29 12:36:45
+2026,17,33,Hyperion,14,Richmond,17,1146.3644,2026-06-29 12:36:45
+2026,17,33,Hyperion,15,St Kilda,13,1423.6417,2026-06-29 12:36:45
+2026,17,33,Hyperion,16,Sydney,2,1710.8299,2026-06-29 12:36:45
+2026,17,33,Hyperion,17,West Coast,16,1157.2430,2026-06-29 12:36:45
+2026,17,33,Hyperion,18,Western Bulldogs,3,1678.8723,2026-06-29 12:36:45
+2026,17,34,Don't Blame the Data,1,Adelaide,6,104.0867,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,2,Brisbane Lions,4,109.3043,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,3,Carlton,8,101.8080,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,4,Collingwood,7,103.8808,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,5,Essendon,17,83.4395,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,6,Fremantle,1,114.6757,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,7,Geelong,2,112.6133,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,8,Gold Coast,10,101.1806,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,9,Greater Western Sydney,14,99.6471,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,10,Hawthorn,3,111.5294,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,11,Melbourne,13,99.8268,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,12,North Melbourne,15,90.4970,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,13,Port Adelaide,11,101.1469,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,14,Richmond,18,78.2699,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,15,St Kilda,12,100.1177,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,16,Sydney,5,108.6684,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,17,West Coast,16,84.5848,2026-06-30 19:02:38
+2026,17,34,Don't Blame the Data,18,Western Bulldogs,9,101.2457,2026-06-30 19:02:38
+2026,17,35,footycharts,1,Adelaide,7,1508.4152,2026-06-29 13:29:17
+2026,17,35,footycharts,2,Brisbane Lions,5,1521.7391,2026-06-29 13:29:17
+2026,17,35,footycharts,3,Carlton,6,1515.8876,2026-06-29 13:29:17
+2026,17,35,footycharts,4,Collingwood,9,1505.4097,2026-06-29 13:29:17
+2026,17,35,footycharts,5,Essendon,16,1449.1467,2026-06-29 13:29:17
+2026,17,35,footycharts,6,Fremantle,1,1546.8085,2026-06-29 13:29:17
+2026,17,35,footycharts,7,Geelong,2,1539.6373,2026-06-29 13:29:17
+2026,17,35,footycharts,8,Gold Coast,14,1496.9038,2026-06-29 13:29:17
+2026,17,35,footycharts,9,Greater Western Sydney,10,1500.9195,2026-06-29 13:29:17
+2026,17,35,footycharts,10,Hawthorn,3,1529.2847,2026-06-29 13:29:17
+2026,17,35,footycharts,11,Melbourne,8,1506.6843,2026-06-29 13:29:17
+2026,17,35,footycharts,12,North Melbourne,15,1478.6551,2026-06-29 13:29:17
+2026,17,35,footycharts,13,Port Adelaide,12,1497.8224,2026-06-29 13:29:17
+2026,17,35,footycharts,14,Richmond,18,1431.5035,2026-06-29 13:29:17
+2026,17,35,footycharts,15,St Kilda,11,1500.0428,2026-06-29 13:29:17
+2026,17,35,footycharts,16,Sydney,4,1526.7872,2026-06-29 13:29:17
+2026,17,35,footycharts,17,West Coast,17,1446.8677,2026-06-29 13:29:17
+2026,17,35,footycharts,18,Western Bulldogs,13,1497.4849,2026-06-29 13:29:17
+2026,17,36,What Snoo Thinks,1,Adelaide,5,8.9300,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,2,Brisbane Lions,8,3.7300,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,3,Carlton,12,1.6700,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,4,Collingwood,9,2.7700,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,5,Essendon,17,-26.9600,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,6,Fremantle,4,15.5100,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,7,Geelong,1,22.4200,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,8,Gold Coast,6,7.7700,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,9,Greater Western Sydney,7,4.2300,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,10,Hawthorn,3,19.0100,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,11,Melbourne,10,2.2000,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,12,North Melbourne,15,-11.3000,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,13,Port Adelaide,14,-7.5000,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,14,Richmond,18,-38.2000,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,15,St Kilda,13,-0.5200,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,16,Sydney,2,19.1400,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,17,West Coast,16,-24.6600,2026-06-04 22:28:05
+2026,17,36,What Snoo Thinks,18,Western Bulldogs,11,1.7600,2026-06-04 22:28:05
+2026,17,37,Winnable,1,Adelaide,7,63.2757,2026-07-03 02:42:38
+2026,17,37,Winnable,2,Brisbane Lions,3,73.1239,2026-07-03 02:42:38
+2026,17,37,Winnable,3,Carlton,6,65.3731,2026-07-03 02:42:38
+2026,17,37,Winnable,4,Collingwood,8,60.6248,2026-07-03 02:42:38
+2026,17,37,Winnable,5,Essendon,16,32.8817,2026-07-03 02:42:38
+2026,17,37,Winnable,6,Fremantle,1,75.9486,2026-07-03 02:42:38
+2026,17,37,Winnable,7,Geelong,2,75.1365,2026-07-03 02:42:38
+2026,17,37,Winnable,8,Gold Coast,10,58.3681,2026-07-03 02:42:38
+2026,17,37,Winnable,9,Greater Western Sydney,13,56.5201,2026-07-03 02:42:38
+2026,17,37,Winnable,10,Hawthorn,5,70.2479,2026-07-03 02:42:38
+2026,17,37,Winnable,11,Melbourne,11,57.6506,2026-07-03 02:42:38
+2026,17,37,Winnable,12,North Melbourne,15,43.9824,2026-07-03 02:42:38
+2026,17,37,Winnable,13,Port Adelaide,14,56.1902,2026-07-03 02:42:38
+2026,17,37,Winnable,14,Richmond,18,23.6096,2026-07-03 02:42:38
+2026,17,37,Winnable,15,St Kilda,9,58.4959,2026-07-03 02:42:38
+2026,17,37,Winnable,16,Sydney,4,71.9370,2026-07-03 02:42:38
+2026,17,37,Winnable,17,West Coast,17,32.6073,2026-07-03 02:42:38
+2026,17,37,Winnable,18,Western Bulldogs,12,56.7528,2026-07-03 02:42:38
+2026,17,38,Informed Stats,1,Adelaide,5,112.8550,2026-06-29 10:44:04
+2026,17,38,Informed Stats,2,Brisbane Lions,4,122.2524,2026-06-29 10:44:04
+2026,17,38,Informed Stats,3,Carlton,9,104.5262,2026-06-29 10:44:04
+2026,17,38,Informed Stats,4,Collingwood,6,112.5000,2026-06-29 10:44:04
+2026,17,38,Informed Stats,5,Essendon,17,67.7273,2026-06-29 10:44:04
+2026,17,38,Informed Stats,6,Fremantle,1,144.7415,2026-06-29 10:44:04
+2026,17,38,Informed Stats,7,Geelong,2,123.9291,2026-06-29 10:44:04
+2026,17,38,Informed Stats,8,Gold Coast,13,93.2450,2026-06-29 10:44:04
+2026,17,38,Informed Stats,9,Greater Western Sydney,14,92.7904,2026-06-29 10:44:04
+2026,17,38,Informed Stats,10,Hawthorn,3,123.7389,2026-06-29 10:44:04
+2026,17,38,Informed Stats,11,Melbourne,10,103.9781,2026-06-29 10:44:04
+2026,17,38,Informed Stats,12,North Melbourne,15,85.6965,2026-06-29 10:44:04
+2026,17,38,Informed Stats,13,Port Adelaide,8,107.9699,2026-06-29 10:44:04
+2026,17,38,Informed Stats,14,Richmond,18,61.4350,2026-06-29 10:44:04
+2026,17,38,Informed Stats,15,St Kilda,12,99.4558,2026-06-29 10:44:04
+2026,17,38,Informed Stats,16,Sydney,7,111.3333,2026-06-29 10:44:04
+2026,17,38,Informed Stats,17,West Coast,16,68.1344,2026-06-29 10:44:04
+2026,17,38,Informed Stats,18,Western Bulldogs,11,103.0096,2026-06-29 10:44:04
+2026,17,40,In The Game,1,Adelaide,4,4.4829,2026-07-03 01:39:25
+2026,17,40,In The Game,2,Brisbane Lions,4,8.1303,2026-07-03 01:39:25
+2026,17,40,In The Game,3,Carlton,8,-3.4688,2026-07-03 01:39:25
+2026,17,40,In The Game,4,Collingwood,10,-4.8347,2026-07-03 01:39:25
+2026,17,40,In The Game,5,Essendon,15,-15.4859,2026-07-03 01:39:25
+2026,17,40,In The Game,6,Fremantle,2,7.4383,2026-07-03 01:39:25
+2026,17,40,In The Game,7,Geelong,1,17.1756,2026-07-03 01:39:25
+2026,17,40,In The Game,8,Gold Coast,1,7.6816,2026-07-03 01:39:25
+2026,17,40,In The Game,9,Greater Western Sydney,7,-1.2432,2026-07-03 01:39:25
+2026,17,40,In The Game,10,Hawthorn,5,4.0866,2026-07-03 01:39:25
+2026,17,40,In The Game,11,Melbourne,9,-4.0845,2026-07-03 01:39:25
+2026,17,40,In The Game,12,North Melbourne,13,-11.3318,2026-07-03 01:39:25
+2026,17,40,In The Game,13,Port Adelaide,12,-10.1352,2026-07-03 01:39:25
+2026,17,40,In The Game,14,Richmond,16,-16.4513,2026-07-03 01:39:25
+2026,17,40,In The Game,15,St Kilda,11,-10.1250,2026-07-03 01:39:25
+2026,17,40,In The Game,16,Sydney,3,5.9567,2026-07-03 01:39:25
+2026,17,40,In The Game,17,West Coast,14,-13.0856,2026-07-03 01:39:25
+2026,17,40,In The Game,18,Western Bulldogs,6,0.7282,2026-07-03 01:39:25
