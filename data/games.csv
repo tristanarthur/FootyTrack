@@ -3013,14 +3013,14 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38626,2026,16,Round 16,2026-06-28 15:15:00,North Melbourne,12.0,Essendon,5.0,79,65,10.0,19.0,9.0,11.0,North Melbourne,12.0,Docklands,100,0,0,2026-06-28 17:47:14
 38627,2026,16,Round 16,2026-06-27 19:35:00,Port Adelaide,13.0,Adelaide,1.0,97,71,13.0,19.0,11.0,5.0,Port Adelaide,13.0,Adelaide Oval,100,0,0,2026-06-27 22:12:19
 38628,2026,16,Round 16,2026-06-28 17:10:00,Fremantle,6.0,Gold Coast,8.0,80,29,11.0,14.0,3.0,11.0,Fremantle,6.0,Perth Stadium,100,0,0,2026-06-28 19:36:10
-38629,2026,17,Round 17,2026-07-05 15:15:00,Essendon,5.0,St Kilda,15.0,0,0,,,,,,,Docklands,0,0,0,2026-05-15 12:02:13
+38629,2026,17,Round 17,2026-07-05 15:15:00,Essendon,5.0,St Kilda,15.0,50,117,7.0,8.0,17.0,15.0,St Kilda,15.0,Docklands,100,0,0,2026-07-05 17:49:35
 38630,2026,17,Round 17,2026-07-02 19:30:00,Geelong,7.0,Brisbane Lions,2.0,101,123,14.0,17.0,19.0,9.0,Brisbane Lions,2.0,Kardinia Park,100,0,0,2026-07-02 22:17:33
 38631,2026,17,Round 17,2026-07-04 16:15:00,Gold Coast,8.0,Collingwood,4.0,98,104,15.0,8.0,15.0,14.0,Collingwood,4.0,Carrara,100,0,0,2026-07-04 18:59:40
 38632,2026,17,Round 17,2026-07-04 13:35:00,Greater Western Sydney,9.0,Fremantle,6.0,109,88,16.0,13.0,13.0,10.0,Greater Western Sydney,9.0,Manuka Oval,100,0,0,2026-07-04 16:14:22
 38633,2026,17,Round 17,2026-07-04 13:15:00,Hawthorn,10.0,Melbourne,11.0,90,125,14.0,6.0,19.0,11.0,Melbourne,11.0,York Park,100,0,0,2026-07-04 15:59:01
 38634,2026,17,Round 17,2026-07-04 19:35:00,Richmond,14.0,Carlton,3.0,72,74,10.0,12.0,10.0,14.0,Carlton,3.0,M.C.G.,100,0,0,2026-07-04 22:10:56
 38635,2026,17,Round 17,2026-07-03 19:40:00,Sydney,16.0,Western Bulldogs,18.0,90,55,13.0,12.0,7.0,13.0,Sydney,16.0,S.C.G.,100,0,0,2026-07-03 22:22:22
-38636,2026,17,Round 17,2026-07-05 16:40:00,Port Adelaide,13.0,North Melbourne,12.0,0,0,,,,,,,Adelaide Oval,0,0,0,2026-05-15 12:02:13
+38636,2026,17,Round 17,2026-07-05 16:40:00,Port Adelaide,13.0,North Melbourne,12.0,73,52,10.0,13.0,7.0,10.0,Port Adelaide,13.0,Adelaide Oval,100,0,0,2026-07-05 19:12:05
 38637,2026,17,Round 17,2026-07-03 20:10:00,West Coast,17.0,Adelaide,1.0,74,99,11.0,8.0,15.0,9.0,Adelaide,1.0,Perth Stadium,100,0,0,2026-07-03 22:48:42
 38638,2026,18,Round 18,2026-07-12 16:40:00,Brisbane Lions,2.0,Essendon,5.0,0,0,,,,,,,Gabba,0,0,0,2026-05-15 12:02:14
 38639,2026,18,Round 18,2026-07-11 19:35:00,Carlton,3.0,Hawthorn,10.0,0,0,,,,,,,M.C.G.,0,0,0,2026-05-15 12:02:14
