@@ -3047,7 +3047,7 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38660,2026,20,Round 20,2026-07-26 15:15:00,North Melbourne,12.0,St Kilda,15.0,0,0,,,,,,,Docklands,0,0,0,2026-05-15 12:02:17
 38661,2026,20,Round 20,2026-07-24 19:40:00,Melbourne,11.0,Geelong,7.0,0,0,,,,,,,M.C.G.,0,0,0,2026-05-15 12:02:17
 38662,2026,20,Round 20,2026-07-25 19:40:00,Western Bulldogs,18.0,Richmond,14.0,0,0,,,,,,,Docklands,0,0,0,2026-05-15 12:02:17
-38663,2026,20,Round 20,2026-07-23 19:30:00,Adelaide,1.0,Collingwood,4.0,0,0,,,,,,,Adelaide Oval,0,0,0,2026-05-15 12:02:17
+38663,2026,20,Round 20,2026-07-23 19:30:00,Adelaide,1.0,Collingwood,4.0,74,108,11.0,8.0,16.0,12.0,Collingwood,4.0,Adelaide Oval,100,0,0,2026-07-23 22:14:07
 38664,2026,20,Round 20,2026-07-24 20:10:00,Fremantle,6.0,West Coast,17.0,0,0,,,,,,,Perth Stadium,0,0,0,2026-05-15 12:02:17
 38665,2026,21,Round 21,2026-08-01 19:40:00,Carlton,3.0,Brisbane Lions,2.0,0,0,,,,,,,Docklands,0,0,0,2026-05-15 12:02:18
 38666,2026,21,Round 21,2026-07-30 19:30:00,Collingwood,4.0,Geelong,7.0,0,0,,,,,,,M.C.G.,0,0,0,2026-05-15 12:02:18
