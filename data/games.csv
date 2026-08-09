@@ -3060,13 +3060,13 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38673,2026,21,Round 21,2026-07-31 20:10:00,Fremantle,6.0,Western Bulldogs,18.0,78,41,11.0,12.0,5.0,11.0,Fremantle,6.0,Perth Stadium,100,0,0,2026-07-31 22:40:34
 38674,2026,22,Round 22,2026-08-07 19:40:00,Brisbane Lions,2.0,Hawthorn,10.0,125,58,18.0,17.0,8.0,10.0,Brisbane Lions,2.0,Gabba,100,0,0,2026-08-07 22:19:18
 38675,2026,22,Round 22,2026-08-08 16:35:00,Geelong,7.0,Essendon,5.0,117,50,17.0,15.0,7.0,8.0,Geelong,7.0,Kardinia Park,100,0,0,2026-08-08 19:14:48
-38676,2026,22,Round 22,2026-08-09 13:10:00,Greater Western Sydney,9.0,Gold Coast,8.0,0,0,,,,,,,Manuka Oval,0,0,0,2026-05-15 12:02:19
+38676,2026,22,Round 22,2026-08-09 13:10:00,Greater Western Sydney,9.0,Gold Coast,8.0,77,79,11.0,11.0,11.0,13.0,Gold Coast,8.0,Manuka Oval,100,0,0,2026-08-09 15:57:29
 38677,2026,22,Round 22,2026-08-08 13:15:00,Melbourne,11.0,Fremantle,6.0,113,109,17.0,11.0,17.0,7.0,Melbourne,11.0,M.C.G.,100,0,0,2026-08-08 15:54:01
-38678,2026,22,Round 22,2026-08-09 19:20:00,St Kilda,15.0,Carlton,3.0,0,0,,,,,,,Docklands,0,0,0,2026-05-15 12:02:20
+38678,2026,22,Round 22,2026-08-09 19:20:00,St Kilda,15.0,Carlton,3.0,62,106,8.0,14.0,16.0,10.0,Carlton,3.0,Docklands,100,0,0,2026-08-09 21:57:54
 38679,2026,22,Round 22,2026-08-08 16:15:00,Sydney,16.0,Port Adelaide,13.0,167,70,26.0,11.0,10.0,10.0,Sydney,16.0,S.C.G.,100,0,0,2026-08-08 18:58:17
 38680,2026,22,Round 22,2026-08-06 19:30:00,Western Bulldogs,18.0,North Melbourne,12.0,77,100,11.0,11.0,15.0,10.0,North Melbourne,12.0,Docklands,100,0,0,2026-08-06 22:06:37
 38681,2026,22,Round 22,2026-08-08 19:35:00,Adelaide,1.0,Richmond,14.0,63,54,9.0,9.0,7.0,12.0,Adelaide,1.0,Adelaide Oval,100,0,0,2026-08-08 22:12:37
-38682,2026,22,Round 22,2026-08-09 16:10:00,West Coast,17.0,Collingwood,4.0,0,0,,,,,,,Perth Stadium,0,0,0,2026-05-15 12:02:19
+38682,2026,22,Round 22,2026-08-09 16:10:00,West Coast,17.0,Collingwood,4.0,98,117,15.0,8.0,17.0,15.0,Collingwood,4.0,Perth Stadium,100,0,0,2026-08-09 18:56:54
 38683,2026,23,Round 23,2026-08-15 16:15:00,Brisbane Lions,2.0,Gold Coast,8.0,0,0,,,,,,,Gabba,0,0,0,2026-07-29 20:28:21
 38684,2026,23,Round 23,2026-08-16 16:40:00,Essendon,5.0,Sydney,16.0,0,0,,,,,,,M.C.G.,0,0,0,2026-07-29 20:28:21
 38685,2026,23,Round 23,2026-08-16 13:40:00,Greater Western Sydney,9.0,West Coast,17.0,0,0,,,,,,,Sydney Showground,0,0,0,2026-07-29 20:28:21
