@@ -3095,7 +3095,7 @@ id,year,round,roundname,date,hteam,hteamid,ateam,ateamid,hscore,ascore,hgoals,hb
 38717,2026,27,Preliminary Finals,2026-09-18 14:00:00,,,,,0,0,,,,,,,M.C.G.,0,5,0,2025-11-23 18:18:03
 38718,2026,28,Grand Final,2026-09-25 14:00:00,,,,,0,0,,,,,,,M.C.G.,0,6,1,2025-11-23 18:18:03
 38719,2026,25,Wildcard Finals,2026-08-29 19:35:00,Melbourne,11.0,Carlton,3.0,0,0,,,,,,,M.C.G.,0,7,0,2026-08-24 04:13:08
-38720,2026,25,Wildcard Finals,2026-08-28 19:40:00,Western Bulldogs,18.0,Collingwood,4.0,0,0,,,,,,,M.C.G.,0,7,0,2026-08-24 04:13:08
+38720,2026,25,Wildcard Finals,2026-08-28 19:40:00,Western Bulldogs,18.0,Collingwood,4.0,96,93,14.0,12.0,14.0,9.0,Western Bulldogs,18.0,M.C.G.,100,7,0,2026-08-28 22:25:27
 38721,2026,26,Finals Week 1,2026-09-05 19:20:00,Geelong,7.0,,,0,0,,,,,,,M.C.G.,0,2,0,2026-07-29 21:51:58
 38722,2026,26,Finals Week 1,2026-09-05 19:20:00,Adelaide,1.0,,,0,0,,,,,,,M.C.G.,0,2,0,2026-07-29 21:51:58
 38723,2026,26,Finals Week 1,2026-09-03 20:10:00,Fremantle,6.0,Hawthorn,10.0,0,0,,,,,,,Perth Stadium,0,3,0,2026-08-24 21:46:24
