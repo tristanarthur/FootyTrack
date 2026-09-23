@@ -45221,9 +45221,9 @@ gameid,sourceid,source,year,round,hteamid,ateamid,tipteamid,tip,margin,confidenc
 38728,40,In The Game,2026,28,16,6,6,Fremantle,2.48,51.22,1.0,0.0348,2026-09-18 22:20:07
 38728,41,Holy Grail Ratings,2026,28,16,6,16,Sydney,15.20,59.91,0.0,-0.3187,2026-09-18 22:20:07
 38729,1,Squiggle,2026,29,6,2,2,Brisbane Lions,2.90,54.81,,,2026-09-21 12:53:08
-38729,5,Punters,2026,29,6,2,2,Brisbane Lions,7.80,57.03,,,2026-09-23 01:35:30
+38729,5,Punters,2026,29,6,2,2,Brisbane Lions,5.70,55.39,,,2026-09-23 21:40:10
 38729,7,PlusSixOne,2026,29,6,2,6,Fremantle,-0.10,51.20,,,2026-09-20 00:21:09
-38729,8,Aggregate,2026,29,6,2,2,Brisbane Lions,1.62,51.83,,,2026-09-23 01:35:35
+38729,8,Aggregate,2026,29,6,2,2,Brisbane Lions,1.99,51.86,,,2026-09-24 06:10:55
 38729,9,Graft,2026,29,6,2,2,Brisbane Lions,5.00,53.20,,,2026-09-20 13:36:04
 38729,10,Stattraction,2026,29,6,2,6,Fremantle,9.12,60.15,,,2026-09-19 23:19:05
 38729,11,Live Ladders,2026,29,6,2,2,Brisbane Lions,3.00,54.01,,,2026-09-20 14:03:14
@@ -45238,6 +45238,7 @@ gameid,sourceid,source,year,round,hteamid,ateamid,tipteamid,tip,margin,confidenc
 38729,37,Winnable,2026,29,6,2,2,Brisbane Lions,7.91,60.11,,,2026-09-19 21:33:09
 38729,38,Informed Stats,2026,29,6,2,6,Fremantle,11.00,60.00,,,2026-09-21 11:53:04
 38729,39,HBin,2026,29,6,2,2,Brisbane Lions,18.70,74.30,,,2026-09-20 16:40:08
+38729,40,In The Game,2026,29,6,2,2,Brisbane Lions,10.40,53.93,,,2026-09-24 06:10:28
 38729,41,Holy Grail Ratings,2026,29,6,2,2,Brisbane Lions,4.96,53.27,,,2026-09-22 22:34:06
 39880,7,PlusSixOne,2026,29,6,2,6,Fremantle,-0.1,51.2,,,2026-09-20 00:21:09
 39880,8,Aggregate,2026,29,6,2,2,Brisbane Lions,0.36,50.57,,,2026-09-20 07:25:05
